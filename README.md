@@ -17,7 +17,7 @@
 |                 | Oliver          |                 |                 |
 |                 | *               |                 |                 |
 
-| Super           | Container       | Truck           | 1L
+| --------------- | Container       | Truck           | ---------------
 | --------------- | --------------- | --------------- | --------------- 
 | Thomas          | Edward          | **              | Henry
 | Gordon          | **              | James           | Percy
