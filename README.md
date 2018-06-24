@@ -17,7 +17,7 @@
 |                 | Oliver          |                 |                 |
 |                 | *               |                 |                 |
 
-Super Truck 1L
+| Super Truck 1L
 | --------------- | --------------- | --------------- | --------------- 
 | Thomas          | Edward          | **              | Henry
 
