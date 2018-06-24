@@ -1,3 +1,27 @@
+# Thomas & Friends
+
+| Container Truck | Super Truck 1L  | Super Truck 1R  | Super Truck 2L  | Super Truck 2R
+| --------------- | --------------- | --------------- | --------------- | ---------------
+| Poli            | Thomas          | Emily           | Bruny           | Dump
+| Poli            | Edward          | Cap             | Bruny           | Dump
+| Poli            | **              | Cap             | Bruny           | Dump
+| Poli            | Henry           | Cap             | Bruny           | Dump
+| Poli            | Gordon          | Cap             | Bruny           | Dump
+| Poli            | **              | Cap             | Bruny           | Dump
+| Poli            | James           | Cap             | Bruny           | Dump
+| Poli            | Percy           | Cap             | Bruny           | Dump
+| Poli            | Toby            | Cap             | Bruny           | Dump
+| Poli            | Annie           | Bill            | Bruny           | Dump
+| Poli            | Clarabel        | Ben             | Bruny           | Dump
+|                 |                 |                 |                 |
+|                 | Oliver          |                 |                 |
+|                 | *               |                 |                 |
+
+Super Truck 1L
+| Thomas          | Edward          | **              | Henry
+
+
+
 # Robocar Poli
 
 | Rescue Bus      | School Bus 1L   | School Bus 1R   | School Bus 2L   | School Bus 2R   | Carry Air
