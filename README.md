@@ -17,10 +17,18 @@
 |                 | Oliver          |                 |                 |
 |                 | *               |                 |                 |
 
-| Super Truck 1L  | Super Truck 1L  | Super Truck 1L  | Super Truck 1L
+| Super           | Container       | Truck           | 1L
 | --------------- | --------------- | --------------- | --------------- 
 | Thomas          | Edward          | **              | Henry
-
+| Gordon          | **              | James           | Percy
+| Toby            | Annie           | Clarabel        | Charlie
+|                 | Oliver          | *               
+| Super           | Container       | Truck           | 1L
+| --------------- | --------------- | --------------- | --------------- 
+| Thomas          | Edward          | **              | Henry
+| Gordon          | **              | James           | Percy
+| Toby            | Annie           | Clarabel        | Charlie
+|                 | Oliver          | *               
 
 
 # Robocar Poli
