@@ -4,32 +4,34 @@
 | --------------- | --------------- | --------------- | --------------- | ---------------
 | Harold          | Thomas          | Ashima          | Thomas(light)   | Thomas(modern)
 | Skiff           | Edward          | Emily           | Hiro            | Gordon(modern)
-| Whiff           | **              | **              | **              | **
-| Belle           | Henry           | YongBao         | Hiro(color)     | Spencer
-| Hurricane       | Gordon          | Stanley         | Ferdinand       | Cornor
-|                 | **              | Scruff          | **              | **
-| Victor          | James           | Gatur           | Lexi            | Caitlin
-| Luke            | Percy           | Raul            | Rosie           |
+| Kevin           | **              | **              | **              | **
+| Bush            | Henry           | YongBao         | Hiro(color)     | Spencer
+| Jack            | Gordon          | Stanley         | Ferdinand       | Cornor
+| Max             | **              | Scruff          | **              | **
+| Monty           | James           | Gatur           | Lexi            | Caitlin
+| Winston         | Percy           | Raul            | Rosie           |
 |                 | Toby            | Ivan            | Theo            | 
-|                 | Annie           | Bert            | Flynn           | Alex
-| Bill            | Clarabel        | Salty           | **              | **
-| Ben             | Charlie         | Frankie         | Oliver          | Shane
-| Timonthy        |                 | Dissel          |                 | Marion
+| Belle           | Annie           | Bert            | Flynn           | Alex
+|                 | Clarabel        | Salty           | **              | **
+| Bash            | Charlie         | Frankie         | Oliver          | Shane
+| Dash            |                 | Dissel          |                 | Marion
 |                 |                 | Dissel10        |                 | *
+
+Whiff
+Hurricane
+
+
+Victor
+Luke
 
 Hector
 Hector(coach)
 
+Bill
+Ben
+Timonthy
 
-Bash
-Dash
 
-Winston
-Bush
-Kevin
-Jack
-Max
-Monty
 
 # Robocar Poli
 
