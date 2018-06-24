@@ -2,35 +2,34 @@
 
 | Container Truck | Super Truck 1L  | Super Truck 1R  | Super Truck 2L  | Super Truck 2R
 | --------------- | --------------- | --------------- | --------------- | ---------------
-| Poli            | Thomas          | Emily           | Bruny           | Dump
-| Poli            | Edward          | Cap             | Bruny           | Dump
-| Poli            | **              | Cap             | Bruny           | Dump
-| Poli            | Henry           | Cap             | Bruny           | Dump
-| Poli            | Gordon          | Cap             | Bruny           | Dump
-| Poli            | **              | Cap             | Bruny           | Dump
-| Poli            | James           | Cap             | Bruny           | Dump
-| Poli            | Percy           | Cap             | Bruny           | Dump
-| Poli            | Toby            | Cap             | Bruny           | Dump
-| Poli            | Annie           | Bill            | Bruny           | Dump
-| Poli            | Clarabel        | Ben             | Bruny           | Dump
-|                 |                 |                 |                 |
-|                 | Oliver          |                 |                 |
-|                 | *               |                 |                 |
+| Harold          | Thomas          | Ashima          | Thomas(light)   | Thomas(modern)
+| Skiff           | Edward          | Emily           | Hiro            | Gordon(modern)
+| Whiff           | **              | **              | **              | **
+| Belle           | Henry           | YongBao         | Hiro(color)     | Spencer
+| Hurricane       | Gordon          | Stanley         | Ferdinand       | Cornor
+|                 | **              | Scruff          | **              | **
+| Victor          | James           | Gatur           | Lexi            | Caitlin
+| Luke            | Percy           | Raul            | Rosie           |
+|                 | Toby            | Ivan            | Theo            | 
+|                 | Annie           | Bert            | Flynn           | Alex
+| Bill            | Clarabel        | Salty           | **              | **
+| Ben             | Charlie         | Frankie         | Oliver          | Shane
+| Timonthy        |                 | Dissel          |                 | Marion
+|                 |                 | Dissel10        |                 | *
 
-| --------------- | Super Container | Truck 1L        | ---------------
-| --------------- | --------------- | --------------- | --------------- 
-| Thomas          | Edward          | **              | Henry
-| Gordon          | **              | James           | Percy
-| Toby            | Annie           | Clarabel        | Charlie
-| --------------- | Oliver          | *               | ---------------
+Hector
+Hector(coach)
 
-| --------------- | Super Container | Truck 1R        | ---------------
-| --------------- | --------------- | --------------- | --------------- 
-| Thomas          | Edward          | **              | Henry
-| Gordon          | **              | James           | Percy
-| Toby            | Annie           | Clarabel        | Charlie
-| --------------- | Oliver          | *               | ---------------
 
+Bash
+Dash
+
+Winston
+Bush
+Kevin
+Jack
+Max
+Monty
 
 # Robocar Poli
 
