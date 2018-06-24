@@ -3,19 +3,19 @@
 | Container Truck | Super Truck 1L  | Super Truck 1R  | Super Truck 2L  | Super Truck 2R
 | --------------- | --------------- | --------------- | --------------- | ---------------
 | Harold          | Thomas          | Ashima          | Thomas(light)   | Thomas(modern)
-| Skiff           | Edward          | Emily           | Hiro            | Gordon(modern)
+| Skiff           | Edward          | Emily           | Flynn           | Gordon(modern)
 | Kevin           | **              | **              | **              | **
-| Bush            | Henry           | YongBao         | Hiro(color)     | Spencer
-| Jack            | Gordon          | Alex            | Ferdinand       | Cornor
+| Bush            | Henry           | YongBao         | Oliver          | Spencer
+| Jack            | Gordon          | Alex            | Lexi            | Cornor
 | Max             | **              | **              | **              | **
-| Monty           | James           | Shane           | Lexi            | Caitlin
-| Winston         | Percy           | Stanley         | Rosie           | Gatur
-| Belle           | Toby            | Ben             | Theo            | Ivan
-| Bash            | Annie           | Bill            | Flynn           | Bert
-| Dash            | Clarabel        | Raul            | **              | Salty
-| Hector          | Charlie         | Timonthy        | Oliver          | Frankie
-| Hector(coach)   | Victor          | Marion          | Whiff           | Dissel
-| Hurricane       | Luke            | *               | Scruff          | Dissel10
+| Monty           | James           | Shane           | Ferdinand       | Caitlin
+| Winston         | Percy           | Raul            | Rosie           | Hurricane
+| Belle           | Toby            | Gatur           | Theo            | Salty
+| Bash            | Annie           | Bill            | Hiro            | Ivan
+| Dash            | Clarabel        | Ben             | **              | Bert
+| Hector          | Charlie         | Timonthy        | Hiro(color)     | Frankie
+| Hector(coach)   | Whiff           | Marion          | Victor          | Dissel
+| Stanley         | Scruff          | *               | Luke            | Dissel10
 
 
 # Robocar Poli
