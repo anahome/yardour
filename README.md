@@ -6,31 +6,16 @@
 | Skiff           | Edward          | Emily           | Hiro            | Gordon(modern)
 | Kevin           | **              | **              | **              | **
 | Bush            | Henry           | YongBao         | Hiro(color)     | Spencer
-| Jack            | Gordon          | Stanley         | Ferdinand       | Cornor
-| Max             | **              | Scruff          | **              | **
-| Monty           | James           | Gatur           | Lexi            | Caitlin
-| Winston         | Percy           | Raul            | Rosie           |
-|                 | Toby            | Ivan            | Theo            | 
-| Belle           | Annie           | Bert            | Flynn           | Alex
-|                 | Clarabel        | Salty           | **              | **
-| Bash            | Charlie         | Frankie         | Oliver          | Shane
-| Dash            |                 | Dissel          |                 | Marion
-|                 |                 | Dissel10        |                 | *
-
-Whiff
-Hurricane
-
-
-Victor
-Luke
-
-Hector
-Hector(coach)
-
-Bill
-Ben
-Timonthy
-
+| Jack            | Gordon          | Alex            | Ferdinand       | Cornor
+| Max             | **              | **              | **              | **
+| Monty           | James           | Shane           | Lexi            | Caitlin
+| Winston         | Percy           | Stanley         | Rosie           | Gatur
+| Belle           | Toby            | Ben             | Theo            | Ivan
+| Bash            | Annie           | Bill            | Flynn           | Bert
+| Dash            | Clarabel        | Raul            | **              | Salty
+| Hector          | Charlie         | Timonthy        | Oliver          | Frankie
+| Hector(coach)   | Victor          | Marion          | Whiff           | Dissel
+| Hurricane       | Luke            | *               | Scruff          | Dissel10
 
 
 # Robocar Poli
