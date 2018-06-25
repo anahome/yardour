@@ -40,8 +40,8 @@ Harold Marion Luke Caitlin Diesel10
 | --------------- | --------------- | --------------- | --------------- | --------------- | ---------------
 | Poli            | Helly           | Cap             | Bruny           | Dump            | Spooky1
 | Amber           | Torino          | Musty           | Mark            | Mickey          | Spooky2
-| Roy             | Marine          | Posty           | Bucky           | Max             | Spooky2*
-|                 | Beny            | Mini            | Lifty           | Poke            |
+| Roy             | Marine          | Posty           | Bucky           | Lifty           | Spooky2*
+|                 | Beny            | Mini            | Max             | Poke            |
 |                 | Rody            | SchoolB         | Tracky          | Bruner          |
 |                 | Cleany1         | Camp1           | Terry1          | Spooky1*        |
 |                 | Cleany2         | Camp2           | Terry2          | Poli*           |
