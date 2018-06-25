@@ -26,6 +26,9 @@
 | Donnie 多多
 | Dizzy 小爱
 | Jerome 酷飞
+| Grand Albert
+| Mira
+| Bello 卡文
 
 
 # Robocar Poli
