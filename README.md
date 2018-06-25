@@ -10,12 +10,22 @@
 | Max             | **              | **              | **              | **
 | Monty           | James           | Shane           | Ferdinand       | Caitlin
 | Winston         | Percy           | Raul            | Rosie           | Hurricane
-| Belle           | Toby            | Gatur           | Theo            | Salty
+| Belle           | Toby            | Gator           | Theo            | Salty
 | Bash            | Annie           | Bill            | Hiro            | Ivan
 | Dash            | Clarabel        | Ben             | **              | Bert
 | Hector          | Charlie         | Timonthy        | Hiro(color)     | Frankie
 | Hector(coach)   | Whiff           | Marion          | Victor          | Dissel
 | Stanley         | Scruff          | *               | Luke            | Dissel10
+
+
+# Super Wings
+
+| Big Wing 大鹏    |
+| --------------- | --------------- | --------------- | --------------- | ---------------
+| Jett 乐迪        |
+| Donnie 多多
+| Dizzy 小爱
+| Jerome 酷飞
 
 
 # Robocar Poli
