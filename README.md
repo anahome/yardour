@@ -26,8 +26,9 @@
 | Donnie 多多
 | Dizzy 小爱
 | Jerome 酷飞
-| Grand Albert
-| Mira
+| Paul 包警长
+| Grand Albert 胡须爷爷
+| Mira 小青
 | Bello 卡文
 
 
