@@ -14,9 +14,11 @@
 | Bash            | Annie           | Bill            | Hiro            | Ivan
 | Dash            | Clarabel        | Ben             | **              | Bert
 | Hector          | Charlie         | Timonthy        | Hiro(color)     | Frankie
-| Hector(coach)   | Whiff           | Marion          | Victor          | Dissel
-| Stanley         | Scruff          | *               | Luke            | Dissel10
+| Hector(coach)   | Whiff           | Marion          | Victor          | Diesel
+| Stanley         | Scruff          | *               | Luke            | Diesel10
 
+Thomas Thomas Percy Percy
+Harold Marion Luke Caitlin Diesel10
 
 # Super Wings
 
