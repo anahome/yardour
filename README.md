@@ -4,18 +4,18 @@
 | --------------- | --------------- | --------------- | --------------- | ---------------
 | Harold          | Thomas          | Ashima          | Thomas(light)   | Thomas(modern)
 | Skiff           | Edward          | Emily           | Flynn           | Gordon(modern)
-| Kevin           | **              | **              | * coach         | **
-| Butch           | Henry           | YongBao         | Oliver          | Spencer
-| Jack            | Gordon          | Alex            | Ferdinand       | Cornor
+| Kevin           | **              | **              | **              | **
+| Butch           | Henry           | YongBao         | Ferdinand       | Spencer
+| Jack            | Gordon          | Alex            | Shane           | Cornor
 | Max             | **              | **              | **              | **
-| Monty           | James           | Shane           | Lexi            | Caitlin
+| Monty           | James           | Mike            | Lexi            | Caitlin
 | Winston         | Percy           | Raul            | Rosie           | Hurricane
 | Belle           | Toby            | Gator           | Theo            | Salty
 | Bash            | Annie           | Bill            | Hiro            | Ivan
 | Dash            | Clarabel        | Ben             | **              | Bert
 | Hector          | Charlie         | Timonthy        | Hiro(color)     | Frankie
 | Hector(coach)   | Whiff           | Marion          | Victor          | Diesel
-| Stanley         | Scruff coach    | *               | Luke coach      | Diesel10
+| Stanley         | Scruff coach    | Oliver          | Luke coach      | Diesel10
 
 Thomas Thomas Percy Percy
 Harold Marion Luke Caitlin Diesel10
