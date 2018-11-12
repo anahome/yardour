@@ -5,7 +5,7 @@
 | Harold          | Thomas          | Ashima          | Thomas(light)   | Thomas(modern)
 | Skiff           | Edward          | Emily           | Flynn           | Gordon(modern)
 | Kevin           | **              | **              | * coach         | **
-| Bush            | Henry           | YongBao         | Oliver          | Spencer
+| Butch           | Henry           | YongBao         | Oliver          | Spencer
 | Jack            | Gordon          | Alex            | Ferdinand       | Cornor
 | Max             | **              | **              | **              | **
 | Monty           | James           | Shane           | Lexi            | Caitlin
