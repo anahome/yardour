@@ -38,13 +38,13 @@ Harold Marion Luke Caitlin Diesel10
 
 | Rescue Bus      | School Bus 1L   | School Bus 1R   | School Bus 2L   | School Bus 2R   | Carry Air
 | --------------- | --------------- | --------------- | --------------- | --------------- | ---------------
-| Poli            | Helly           | Cap             | Bruny           | Dump            | Spooky1
-| Amber           | Torino          | Musty           | Mark            | Mickey          | Spooky2
+| Poli            | Poli*           | Cap             | Bruny           | Dump            | Spooky1
+| Amber           | Helly           | Musty           | Mark            | Mickey          | Spooky2
 | Roy             | Marine          | Posty           | Bucky           | Lifty           | Spooky2*
-|                 | Beny            | Mini            | Max             | Poke            |
+|                 | Beny            | Mini            | Max             | Poke            | Torino
 |                 | Rody            | SchoolB         | Tracky          | Bruner          |
 |                 | Cleany1         | Camp1           | Terry1          | Spooky1*        |
-|                 | Cleany2         | Camp2           | Terry2          | Poli*           |
+|                 | Cleany2         | Camp2           | Terry2          |                 |
 
 (transformer)Poli
 
