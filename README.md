@@ -18,7 +18,7 @@
 | Stanley         | Scruff coach    | Oliver          | Luke coach      | Diesel10
 
 Thomas Thomas Percy Percy
-Harold Marion Luke Caitlin Diesel10
+Harold Marion Luke Caitlin(coach) Diesel10
 Stephen Thomas(coach)
 
 
