@@ -19,6 +19,8 @@
 
 Thomas Thomas Percy Percy
 Harold Marion Luke Caitlin Diesel10
+Stephen Thomas(coach)
+
 
 # Super Wings
 
@@ -32,6 +34,8 @@ Harold Marion Luke Caitlin Diesel10
 | Grand Albert    | 胡须爷爷
 | Mira            | 小青
 | Bello           | 卡文
+
+(transformer)Jett
 
 
 # Robocar Poli
