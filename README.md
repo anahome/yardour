@@ -35,7 +35,6 @@ Stephen coach(Thomas) Harold
 | Paul            | 包警长
 | Grand Albert    | 胡须爷爷
 | Mira            | 小青
-
 | Bello           | 卡文
 
 (transformer)Jett
