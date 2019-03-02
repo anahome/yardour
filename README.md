@@ -17,9 +17,9 @@
 | Hector(coach)   | Whiff           | Marion          | Victor          | Diesel
 | Stanley         | Scruff coach    | Oliver          | Luke coach      | Diesel10
 
-Thomas Thomas Percy Percy
-Harold Marion Luke Caitlin(coach) Diesel10
-Stephen Thomas(coach)
+Thomas Percy Luke Caitlin(coach) Diesel10
+Thomas Percy Caitlin(coach) Marion
+Stephen Thomas(coach) Harold
 
 
 # Super Wings
