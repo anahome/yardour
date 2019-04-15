@@ -70,21 +70,22 @@ Stephen coach(Thomas) Harold
 | No.  | Name | Remarks
 | ---- | ---- | ----
 | 0801 | 挖掘机(1611)
-| 0802 | 推土机(1616)
+| 0802 | Front Loader | 推土机(1616)
 | 0805 | 救护车
-| 0807 | 警用直升机(1610)
+| 0807 | Helicopter | 警用直升机(1610)
 | 0811 | 垃圾车*
 | 0813 | 水泥车(1075)*
 | 0817 | 航天飞机
 | 0828 | 再生资源车*
 | 0856 | 救援直升机*
-| 0857 | Road Signs | 路标*
+| 0857 | Road Signs | 路标(1322)？*
 | 0858 | 芬特926拖拉机？
 | 0859 | 道依茨法尔拖拉机？
-| 0860 | 雪地摩托(黄/橙)
+| 0860 | Snowmobile | 雪地摩托(橙)
+| 0860 | Snowmobile | 雪地摩托(黄)
 | 0863 | 银赛车
 | 0866 | 狙击兵跑车*
-| 0867 | 皮卡车*
+| 0867 | Ranger | 福特皮卡*
 | 0870 | 豹式坦克*
 | 0873 | 战斗机*
 | 0875 | 风暴跑车
@@ -94,53 +95,72 @@ Stephen coach(Thomas) Harold
 | 1006 | 保时捷911银
 | 1007 | 宝马敞篷跑车
 | 1011 | Tramway | 有轨电车
-| 1013 | Local Train | 通勤列车
-| 1013 | Local Train | 通勤列车（蓝）
-| 1015 | 云梯消防车
+| 1013 | Local Train | 通勤列车(红)
+| 1013 | Local Train | 通勤列车(蓝)
+| 1015 | Fire Engine | 奔驰云梯消防车
 | 1021 | City Bus | 城市巴士
-| 1034 | 水罐消防车
+| 1022 | Camping Car | 依维柯房车
+| 1034 | Water Cannon | 奔驰水枪消防车
 | 1037 | 雪地清理机*
 | 1039 | 芬特拖拉机带推土臂？
 | 1043 | 道依茨法尔拖拉机带推土臂？
 | 1047 | 摩托车*
 | 1075 | 自卸车(0813)*
-| 1085 | 快递面包车
+| 1085 | Post Van | 快递面包车
 | 1099 | 水上飞机*
-| 1305 |
+| 1303 | Fire Fighter | SMART消防车
+| 1305 | Bugatti EB 16.4 Veyron | 布加迪威龙
 | 1309 | 铲雪车*
 | 1311 | 林德叉车
 | 1312 | 割草机*
-| 1316 | 奥迪敞篷跑车*
+| 1314 | Fire Fighter Motor Cycle | 消防摩托车*
+| 1315 | Mini Copper | MINI轿车
+| 1316 | Audi R8 Spyder | 奥迪R8敞篷跑车*
 | 1318 | 兰博基尼敞篷跑车*
 | 1319 | US School Bus | 美式校车
 | 1321 | Double-decker Bus | 双层巴士
-| 1322 | 路政车
-| 1326 | 起重车
+| 1322 | Road Maintenance Lorry | 路政工程车
+| 1325 | Police Motorbike | 宝马警用摩托车*
+| 1326 | Hydraulic Crane | 液压吊车
+| 1330 | Police Mini | MINI警车
 | 1331 | 奶罐车*
+| 1334 | US Police | 悍马警车(蓝)
 | 1335 | 拖拉机铲车？
+| 1337 | Porsche 911 Turbo | 保时捷911敞篷跑车
 | 1341 | 拖拉机铲车？
+| 1342 | Jeep Wrangler | 吉普牧马人*
 | 1345 | 装甲车
 | 1350 | 警用面包车
 | 1352 | 宝马警车
-| 1353 | 布加迪威龙
+| 1353 | Bugatti Veyron Grand Sport | 布加迪威龙敞篷*
 | 1355 | 拖拉机铲车？
-| 1357 | 红赛车
+| 1357 | Racing Car | 红赛车
 | 1358 | 蓝赛车
-| 1360 | 商务出租车
+| 1360 | Taxi | 商务出租车
+| 1365 | Police Car | 警用商务车*
 | 1365 | 绿警车
 | 1370 | 大众出租车
 | 1374 | 橙赛车
+| 1377 | Motorbike | 宝马摩托车
 | 1379 | 拖拉机带装载机？
 | 1380 | 林木拖拉机*
 | 1387 | 油罐车*
-| 1404 | US Patrol Car | 道奇美式巡逻车
-| 1422 | 路政巡逻车
+| 1404 | US Patrol Car | 道奇警车
+| 1422 | Road Patrol Car | 奥迪A4救援车
 | 1424 | 轻型卡车*
-| 1433 | 保时捷911
-| 1434 | 道奇蝰蛇
-| 1444 | 阿波罗
+| 1430 | Audi R8 | 奥迪R8跑车*
+| 1433 | Porsche Cayman | 保时捷卡曼
+| 1434 | Dodge Viper | 道奇蝰蛇
+| 1436 | KTM X-BOW GT | KTM跑车
+| 1444 | Gumpert Apollo | 阿波罗跑车
+| 1449 | Lamborghini Aventador LP700-4 | 兰博基尼LP700
 | 1452 | 保时捷卡宴
 | 1454 | 宝马MINI
+| 1456 | Cup-Race Porsche 911 | 保时捷911杯赛车
+| 1457 | Porsche 911 Driving School | 保时捷911驾校车
+| 1460 | Fire Command Car | 消防指挥车
+| 1461 | Emergency Car | 大众救援车
+| 1463 | Command Car THW | 救援指挥车
 | 1477 | 装载车*
 | 1486 | 翻斗车*
 | 1490 | 出租车
