@@ -71,15 +71,15 @@ Stephen coach(Thomas) Harold
 | ---- | ---- | ----
 | 0801 | Excavator | 挖掘机（1611）
 | 0802 | Front Loader | 推土机（1616）
-| 0804 | Police Van | 警用面包车*
-| 0805 | Ambulance | 救护车（红）*
+| 0804 | Police Van | 奔驰警用面包车
+| 0805 | Ambulance | 奔驰救护车（橙）
 | 0807 | Helicopter | 警用直升机（1610）
-| 0809 | Ambulance | 救护车（白）*
+| 0809 | Ambulance | 奔驰救护车（白）
 | 0811 | Refuse Truck | 垃圾车*
 | 0813 | Cement Mixer | 水泥车*
 | 0817 | Space Shuttle | 航天飞机
 | 0828 | 再生资源车*
-| 0856 | Helicopter | 救援直升机*
+| 0856 | Helicopter | 救援直升机
 | 0857 | Road Signs | 路标(1322)？*
 | 0858 | 芬特926拖拉机？
 | 0859 | 道依茨法尔拖拉机？
@@ -97,9 +97,10 @@ Stephen coach(Thomas) Harold
 | 1004 | 宝马警车
 | 1006 | 保时捷911银
 | 1007 | 宝马敞篷跑车
+| 1009 | John Deere 7530 | 悍马警车（黑）
 | 1011 | Tramway | 有轨电车
-| 1013 | Local Train | 通勤列车(红)
-| 1013 | Local Train | 通勤列车(蓝)
+| 1013 | Local Train | 通勤列车（红）
+| 1013 | Local Train | 通勤列车（蓝）
 | 1015 | Fire Engine | 奔驰云梯消防车
 | 1021 | City Bus | 城市巴士
 | 1022 | Camping Car | 依维柯房车
@@ -130,7 +131,7 @@ Stephen coach(Thomas) Harold
 | 1326 | Hydraulic Crane | 液压吊车
 | 1330 | Police Mini | MINI警车
 | 1331 | 奶罐车*
-| 1334 | US Police | 悍马警车(蓝)
+| 1334 | US Police | 悍马警车（蓝）
 | 1335 | 拖拉机铲车？
 | 1337 | Porsche 911 Turbo | 保时捷911敞篷跑车
 | 1341 | 拖拉机铲车？
@@ -203,6 +204,7 @@ Stephen coach(Thomas) Harold
 | 1837 | 绿拖车+拖拉机
 | 1846 | 拖拉机+杂物车
 | 1849 | 拖车+游艇
+| 1850 | Rescue Service Set | 奔驰救护车+救援直升机
 | 1864 | US School Bus | 美式校车
 | 1866 | 拖车+飞机
 | 1872 | 拖车+豹式坦克
