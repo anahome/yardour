@@ -72,8 +72,9 @@ Stephen coach(Thomas) Harold
 | 0801 | Excavator | 挖掘机(1611)
 | 0802 | Front Loader | 推土机(1616)
 | 0804 | Police Van | 警用面包车*
-| 0805 | Ambulance | 救护车*
+| 0805 | Ambulance | 救护车(红)*
 | 0807 | Helicopter | 警用直升机(1610)
+| 0809 | Ambulance | 救护车(白)*
 | 0811 | 垃圾车*
 | 0813 | 水泥车(1075)*
 | 0817 | 航天飞机
