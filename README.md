@@ -218,11 +218,11 @@ Stephen coach(Thomas) Harold
 | 2527 | 救援直升机*
 | 2544 | Car with Trailer | 前车拖后车
 | 2549 | 保时捷消防车带气垫船
-| 3533 | 利勃海尔推土机
+| 3533 | Lierherr R580 Four Wheel Loader | 利勃海尔推土机
 | 3731 | US School Bus | 美式校车*
-| 3734 | 单节巴士
-| 3736 | 双节巴士
-| 3921 | 集装箱卡车
-| 3934 | 汽车运输车
+| 3734 | Bus MAN Lion's City | 曼恩单节巴士
+| 3736 | Articulated Bus | 曼恩双节巴士
+| 3921 | Truck with Container | 奔驰牵引车+双集装箱半挂车
+| 3934 | Car Transporter | 奔驰牵引车+车辆运输半挂车
 | 4114 | Magirus Fire Engine | 马吉鲁斯消防车
 | 6281 | Gift Set | 礼品装？
