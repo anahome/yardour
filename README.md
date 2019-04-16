@@ -80,18 +80,18 @@ Stephen coach(Thomas) Harold
 | 0817 | Space Shuttle | 航天飞机
 | 0828 | 再生资源车*
 | 0856 | Helicopter | 救援直升机
-| 0857 | Road Signs | 路标(1322)？*
+| 0857 | Road Signs | 路标*
 | 0858 | 芬特926拖拉机？
 | 0859 | 道依茨法尔拖拉机？
-| 0860 | Snowmobile | 雪地摩托(橙)
-| 0860 | Snowmobile | 雪地摩托(黄)
+| 0860 | Snowmobile | 雪地摩托（橙）
+| 0860 | Snowmobile | 雪地摩托（黄）
 | 0863 | 银赛车
 | 0866 | 狙击兵跑车*
 | 0867 | Ranger | 福特皮卡*
 | 0870 | 豹式坦克*
 | 0873 | 战斗机*
 | 0875 | 风暴跑车
-| 0882 | Command Car | 消防面包车
+| 0882 | Command Car | 奔驰消防面包车
 | 0890 | 气垫船*
 | 1001 | 保时捷跑车
 | 1004 | 宝马警车
@@ -107,21 +107,22 @@ Stephen coach(Thomas) Harold
 | 1034 | Water Cannon | 奔驰水枪消防车
 | 1037 | 雪地清理机*
 | 1039 | 芬特拖拉机带推土臂？
+| 1042 | Smart Fortwo Cabrio Convertible | SMART敞篷车
 | 1043 | 道依茨法尔拖拉机带推土臂？
 | 1047 | 摩托车*
 | 1068 | Fire Engine | 消防车(1636)？
 | 1075 | 自卸车(0813)*
 | 1082 | 消防面包车？
-| 1085 | Post Van | 快递面包车
+| 1085 | Post Van | 奔驰快递车
 | 1099 | 水上飞机*
-| 1302 | SMART警车
+| 1302 | Smart Police | SMART警车
 | 1303 | Fire Fighter | SMART消防车
 | 1305 | Bugatti EB 16.4 Veyron | 布加迪威龙
 | 1309 | 铲雪车*
-| 1311 | 林德叉车
+| 1311 | 林德叉车*
 | 1312 | 割草机*
 | 1314 | Fire Fighter Motor Cycle | 消防摩托车*
-| 1315 | Mini Copper | MINI轿车
+| 1315 | Mini Copper | MINI轿车*
 | 1316 | Audi R8 Spyder | 奥迪R8敞篷跑车*
 | 1318 | 兰博基尼敞篷跑车*
 | 1319 | US School Bus | 美式校车
@@ -129,7 +130,7 @@ Stephen coach(Thomas) Harold
 | 1322 | Road Maintenance Lorry | 路政工程车
 | 1325 | Police Motorbike | 宝马警用摩托车*
 | 1326 | Hydraulic Crane | 液压吊车
-| 1330 | Police Mini | MINI警车
+| 1330 | Police Mini | MINI警车*
 | 1331 | 奶罐车*
 | 1334 | US Police | 悍马警车（蓝）
 | 1335 | 拖拉机铲车？
@@ -144,6 +145,7 @@ Stephen coach(Thomas) Harold
 | 1357 | Racing Car | 红赛车
 | 1358 | 蓝赛车
 | 1360 | Taxi | 商务出租车
+| 1361 | Police | 甲壳虫警车
 | 1365 | Police Car | 奥迪A4警车
 | 1365 | Police Car | 福特银河警车
 | 1370 | 大众出租车
@@ -153,6 +155,7 @@ Stephen coach(Thomas) Harold
 | 1380 | 林木拖拉机*
 | 1387 | 油罐车*
 | 1404 | US Patrol Car | 道奇警车
+| 1418 | Claas Forage Harvester | 收割机？
 | 1422 | Road Patrol Car | 奥迪A4救援车
 | 1424 | 轻型卡车*
 | 1430 | Audi R8 | 奥迪R8跑车*
@@ -165,15 +168,16 @@ Stephen coach(Thomas) Harold
 | 1454 | 宝马MINI
 | 1456 | Cup-Race Porsche 911 | 保时捷911杯赛车
 | 1457 | Porsche 911 Driving School | 保时捷911驾校车
-| 1460 | Fire Command Car | 消防指挥车*
+| 1460 | Fire Command Car | 奥迪消防指挥车
 | 1461 | Emergency Car | 大众救援车
 | 1462 | 儿童救援车*
-| 1463 | Command Car THW | 救援指挥车
+| 1463 | Command Car THW | 大众救援指挥车
 | 1467 | 消防皮卡*
 | 1469 | 救援皮卡*
 | 1477 | 装载车*
 | 1486 | 翻斗车*
 | 1490 | 出租车
+| 1518 | Skip Lorry with Trailer | 卡车+挂车
 | 1528 | 保时捷911警车
 | 1610 | 拖车+警用直升机(1610)
 | 1611 | 拖车+挖掘机(0801)
@@ -211,6 +215,7 @@ Stephen coach(Thomas) Harold
 | 1884 | Double Decker City Bus | 曼恩双层巴士
 | 1890 | 垃圾车
 | 1895 | Tramway | 庞巴迪有轨电车*
+| 1896 | Mixer Truck | 水泥车
 | 1898 | 铲雪车
 | 1899 | 吊塔
 | 2108 | 救护车
