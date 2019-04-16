@@ -69,15 +69,15 @@ Stephen coach(Thomas) Harold
 
 | No.  | Name | Remarks
 | ---- | ---- | ----
-| 0801 | Excavator | 挖掘机(1611)
-| 0802 | Front Loader | 推土机(1616)
+| 0801 | Excavator | 挖掘机（1611）
+| 0802 | Front Loader | 推土机（1616）
 | 0804 | Police Van | 警用面包车*
-| 0805 | Ambulance | 救护车(红)*
-| 0807 | Helicopter | 警用直升机(1610)
-| 0809 | Ambulance | 救护车(白)*
-| 0811 | 垃圾车*
-| 0813 | 水泥车(1075)*
-| 0817 | 航天飞机
+| 0805 | Ambulance | 救护车（红）*
+| 0807 | Helicopter | 警用直升机（1610）
+| 0809 | Ambulance | 救护车（白）*
+| 0811 | Refuse Truck | 垃圾车*
+| 0813 | Cement Mixer | 水泥车*
+| 0817 | Space Shuttle | 航天飞机
 | 0828 | 再生资源车*
 | 0856 | Helicopter | 救援直升机*
 | 0857 | Road Signs | 路标(1322)？*
