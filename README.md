@@ -91,6 +91,7 @@ Stephen coach(Thomas) Harold
 | 0870 | 豹式坦克*
 | 0873 | 战斗机*
 | 0875 | 风暴跑车
+| 0882 | Command Car | 消防面包车
 | 0890 | 气垫船*
 | 1001 | 保时捷跑车
 | 1004 | 宝马警车
@@ -142,8 +143,8 @@ Stephen coach(Thomas) Harold
 | 1357 | Racing Car | 红赛车
 | 1358 | 蓝赛车
 | 1360 | Taxi | 商务出租车
-| 1365 | Police Car | 大众警车*
-| 1365 | 绿警车
+| 1365 | Police Car | 奥迪A4警车
+| 1365 | Police Car | 福特银河警车
 | 1370 | 大众出租车
 | 1374 | 橙赛车
 | 1377 | Motorbike | 宝马摩托车
