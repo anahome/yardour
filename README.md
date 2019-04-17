@@ -77,8 +77,12 @@ Stephen coach(Thomas) Harold
 | 0809 | Ambulance | 奔驰救护车（白）
 | 0811 | Refuse Truck | 垃圾车*
 | 0813 | Cement Mixer | 水泥车*
+| 0814 | 奔驰翻斗车*
 | 0817 | Space Shuttle | 航天飞机
-| 0828 | 再生资源车*
+| 0820 | 博世面包车*
+| 0823 | 橙色推土机*
+| 0828 | Recycling Transporter | 再生资源车*
+| 0837 | 保时捷911*
 | 0856 | Helicopter | 救援直升机
 | 0857 | Road Signs | 路标*
 | 0858 | 芬特926拖拉机？
