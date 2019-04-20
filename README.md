@@ -75,13 +75,13 @@ Stephen coach(Thomas) Harold
 | 0805 | Ambulance | 奔驰面包车（急救）
 | 0807 | Helicopter | 直升机（警/1610）
 | 0809 | Ambulance | 奔驰面包车（救护）
-| 0811 | Refuse Truck | 垃圾车*
-| 0813 | Cement Mixer | 搅拌车*
+| 0811 | Refuse Truck | SCANIA垃圾车*
+| 0813 | Cement Mixer | SCANIA搅拌车*
 | 0814 | 奔驰翻斗车*
 | 0817 | Space Shuttle | 航天飞机
 | 0820 | 博世面包车*
 | 0823 | 橙色推土机*
-| 0828 | Recycling Transporter | 再生资源车*
+| 0828 | Recycling Transporter | SCANIA环卫车*
 | 0837 | 保时捷911敞篷*
 | 0839 | 大众甲壳虫敞篷*
 | 0841 | 奥迪跑车*
@@ -137,7 +137,7 @@ Stephen coach(Thomas) Harold
 | 1043 | 道依茨法尔拖拉机带推土臂？
 | 1047 | 摩托车*
 | 1068 | Fire Engine | 消防车(1636)？
-| 1075 | 自卸车(0813)*
+| 1075 | SCANIA自卸车*
 | 1082 | 消防面包车？
 | 1085 | Post Van | 奔驰面包车（快递）
 | 1099 | 水上飞机*
@@ -157,7 +157,7 @@ Stephen coach(Thomas) Harold
 | 1325 | Police Motorbike | 宝马警用摩托车*
 | 1326 | Hydraulic Crane | 液压吊车
 | 1330 | Police Mini | MINI警车
-| 1331 | 奶罐车*
+| 1331 | Milk Collecting Truck | SCANIA奶罐车*
 | 1334 | US Police | 悍马警车（蓝）
 | 1335 | 拖拉机铲车？
 | 1337 | Porsche 911 Turbo | 保时捷911敞篷跑车
