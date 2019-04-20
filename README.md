@@ -76,7 +76,7 @@ Stephen coach(Thomas) Harold
 | 0807 | Helicopter | 警用直升机（1610）
 | 0809 | Ambulance | 奔驰救护车（白）
 | 0811 | Refuse Truck | 垃圾车*
-| 0813 | Cement Mixer | 水泥车*
+| 0813 | Cement Mixer | 搅拌车*
 | 0814 | 奔驰翻斗车*
 | 0817 | Space Shuttle | 航天飞机
 | 0820 | 博世面包车*
@@ -241,7 +241,7 @@ Stephen coach(Thomas) Harold
 | 1884 | Double Decker City Bus | 曼恩双层巴士
 | 1890 | 垃圾车
 | 1895 | Tramway | 庞巴迪有轨电车*
-| 1896 | Mixer Truck | 水泥车
+| 1896 | Mixer Truck | 搅拌车
 | 1898 | 铲雪车
 | 1899 | 吊塔
 | 2108 | 救护车
