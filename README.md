@@ -104,11 +104,19 @@ Stephen coach(Thomas) Harold
 | 0860 | Snowmobile | 雪地摩托（黄）
 | 0861 | Lanz Bulldog | 拖拉机？
 | 0863 | 银赛车
+| 0865 | SIKU Sport 3 | ?
 | 0866 | 狙击兵跑车*
 | 0867 | Ranger | 福特皮卡*
+| 0868 | 福特皮卡*
+| 0869 | SIKU Pick Up 3 | 悍马战车？*
 | 0870 | 豹式坦克*
+| 0872 | 武装直升机*
 | 0873 | 战斗机*
 | 0875 | 风暴跑车
+| 0876 | Lightning | 闪电跑车*
+| 0878 | 风暴跑车？*
+| 0879 | 火焰威兹曼？*
+| 0880 | SIKU Canyon | 悍马皮卡（黄）
 | 0882 | Command Car | 奔驰消防面包车
 | 0890 | 气垫船*
 | 1001 | 保时捷跑车
@@ -137,7 +145,7 @@ Stephen coach(Thomas) Harold
 | 1303 | Fire Fighter | SMART消防车
 | 1305 | Bugatti EB 16.4 Veyron | 布加迪威龙
 | 1309 | 铲雪车*
-| 1311 | 林德叉车*
+| 1311 | Forklift Truck | 林德叉车
 | 1312 | 割草机*
 | 1314 | Fire Fighter Motor Cycle | 消防摩托车*
 | 1315 | Mini Copper | MINI轿车*
@@ -148,7 +156,7 @@ Stephen coach(Thomas) Harold
 | 1322 | Road Maintenance Lorry | 路政工程车
 | 1325 | Police Motorbike | 宝马警用摩托车*
 | 1326 | Hydraulic Crane | 液压吊车
-| 1330 | Police Mini | MINI警车*
+| 1330 | Police Mini | MINI警车
 | 1331 | 奶罐车*
 | 1334 | US Police | 悍马警车（蓝）
 | 1335 | 拖拉机铲车？
@@ -172,7 +180,7 @@ Stephen coach(Thomas) Harold
 | 1379 | 拖拉机带装载机？
 | 1380 | 林木拖拉机*
 | 1387 | 油罐车*
-| 1404 | US Patrol Car | 道奇警车
+| 1404 | US-Patrol Car | 道奇警车
 | 1418 | Claas Forage Harvester | 收割机？
 | 1422 | Road Patrol Car | 奥迪A4救援车
 | 1424 | 轻型卡车*
