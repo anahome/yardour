@@ -89,16 +89,20 @@ Stephen coach(Thomas) Harold
 | 0843 | 绿色拖拉机*
 | 0844 | 奔驰拖车*
 | 0845 | 福特嘉年华*
-| 0846 | 宝马Z3敞篷*
+| 0846 | BWM Z3 | 宝马Z3敞篷*
 | 0847 | 红色拖拉机*
 | 0848 | 前置铲斗车*
-| 0849 | 保时捷卡罗拉*
+| 0849 | Porsche Boxster | 保时捷博克斯特*
+| 0851 | 奔驰SLK 230*
+| 0852 | Vespa ET4 | 韦士柏摩托车
+| 0853 | OAMTC Helicopter | 测试直升机
 | 0856 | Helicopter | 救援直升机
 | 0857 | Road Signs | 路标*
 | 0858 | 芬特926拖拉机？
-| 0859 | 道依茨法尔拖拉机？
+| 0859 | Deutz FAHR Agrotron | 道依茨法尔拖拉机？
 | 0860 | Snowmobile | 雪地摩托（橙）
 | 0860 | Snowmobile | 雪地摩托（黄）
+| 0861 | Lanz Bulldog | 拖拉机？
 | 0863 | 银赛车
 | 0866 | 狙击兵跑车*
 | 0867 | Ranger | 福特皮卡*
