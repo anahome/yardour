@@ -71,10 +71,10 @@ Stephen coach(Thomas) Harold
 | ---- | ---- | ----
 | 0801 | Excavator | 挖掘机（1611）
 | 0802 | Front Loader | 推土机（1616）
-| 0804 | Police Van | 奔驰警用面包车
-| 0805 | Ambulance | 奔驰救护车（橙）
-| 0807 | Helicopter | 警用直升机（1610）
-| 0809 | Ambulance | 奔驰救护车（白）
+| 0804 | Police Van | 奔驰面包车（警）
+| 0805 | Ambulance | 奔驰面包车（急救）
+| 0807 | Helicopter | 直升机（警/1610）
+| 0809 | Ambulance | 奔驰面包车（救护）
 | 0811 | Refuse Truck | 垃圾车*
 | 0813 | Cement Mixer | 搅拌车*
 | 0814 | 奔驰翻斗车*
@@ -94,9 +94,9 @@ Stephen coach(Thomas) Harold
 | 0848 | 前置铲斗车*
 | 0849 | Porsche Boxster | 保时捷博克斯特*
 | 0851 | 奔驰SLK 230*
-| 0852 | Vespa ET4 | 韦士柏摩托车
-| 0853 | OAMTC Helicopter | 测试直升机
-| 0856 | Helicopter | 救援直升机
+| 0852 | Vespa ET4 | 韦士柏摩托车*
+| 0853 | OAMTC Helicopter | 测试直升机*
+| 0856 | Helicopter | 直升机（救援）
 | 0857 | Road Signs | 路标*
 | 0858 | 芬特926拖拉机？
 | 0859 | Deutz FAHR Agrotron | 道依茨法尔拖拉机？
@@ -117,7 +117,7 @@ Stephen coach(Thomas) Harold
 | 0878 | 风暴跑车？*
 | 0879 | 火焰威兹曼？*
 | 0880 | SIKU Canyon | 悍马皮卡（黄）
-| 0882 | Command Car | 奔驰消防面包车
+| 0882 | Command Car | 奔驰面包车（消防）
 | 0890 | 气垫船*
 | 1001 | 保时捷跑车
 | 1004 | 宝马警车
@@ -139,7 +139,7 @@ Stephen coach(Thomas) Harold
 | 1068 | Fire Engine | 消防车(1636)？
 | 1075 | 自卸车(0813)*
 | 1082 | 消防面包车？
-| 1085 | Post Van | 奔驰快递车
+| 1085 | Post Van | 奔驰面包车（快递）
 | 1099 | 水上飞机*
 | 1302 | Smart Police | SMART警车
 | 1303 | Fire Fighter | SMART消防车
