@@ -82,7 +82,7 @@ Stephen coach(Thomas) Harold
 | 0846 | BWM Z3 | 宝马Z3跑车*
 | 0847 | Massey Ferguson Tractor | MF拖拉机*
 | 0849 | Porsche Boxster | 保时捷Boxster跑车*
-| 0851 | 奔驰SLK230*
+| 0851 | ? | 奔驰SLK230*
 | 0852 | Vespa ET4 | Vespa摩托车*
 | 0853 | OAMTC Helicopter | 直升机（检测）*
 | 0856 | Helicopter | 直升机（救援）
@@ -92,22 +92,24 @@ Stephen coach(Thomas) Harold
 | 0860 | Snowmobile | 雪地摩托（橙）
 | 0860 | Snowmobile | 雪地摩托（黄）
 | 0861 | Lanz Bulldog | LANZ拖拉机*
-| 0863 | 银赛车
-| 0865 | SIKU Sport 3 | ?
-| 0866 | 狙击兵跑车*
-| 0867 | Ranger | 福特皮卡*
+| 0863 | 银赛车？
+| 0863 | Siku ? | 竞技塞帕跑车*
+| 0865 | Siku Sport 3 | ?
+| 0866 | Siku Sniper | 狙击手跑车*
+| 0867 | Siku Ranger | 福特皮卡*
 | 0868 | 福特皮卡*
-| 0869 | SIKU Pick Up 3 | 悍马战车？*
-| 0870 | 豹式坦克*
+| 0869 | Siku Pick Up 3 | 悍马战车？*
+| 0870 | Tank | 豹式坦克*
 | 0872 | 武装直升机*
 | 0873 | 战斗机*
-| 0875 | 风暴跑车
-| 0876 | Lightning | 闪电跑车*
-| 0878 | 风暴跑车？*
-| 0879 | 火焰威兹曼？*
+| 0875 | Siku Storm | 风暴跑车
+| 0876 | Siku Lightning | 闪电跑车*
+| 0878 | Siku Hurricane | 风暴跑车？*
+| 0879 | Wiesmann GT MF4 | 火焰威兹曼？*
 | 0880 | SIKU Canyon | 悍马皮卡（黄）
 | 0882 | Command Car | 奔驰面包车（消防）
 | 0890 | 气垫船*
+| 0894 | 路标*
 | 1001 | 保时捷跑车
 | 1004 | 宝马警车
 | 1006 | 保时捷911银
