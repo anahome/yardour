@@ -79,7 +79,7 @@ Stephen coach(Thomas) Harold
 | 0813 | Cement Mixer | SCANIA搅拌车*
 | 0817 | Space Shuttle | 航天飞机
 | 0828 | Recycling Transporter | SCANIA环卫车*
-| 0846 | BWM Z3 | 宝马Z3跑车*
+| 0846 | BMW Z3 | 宝马Z3跑车*
 | 0847 | Massey Ferguson Tractor | MF拖拉机*
 | 0849 | Porsche Boxster | 保时捷Boxster跑车*
 | 0851 | ? | 奔驰SLK230*
@@ -110,10 +110,11 @@ Stephen coach(Thomas) Harold
 | 0882 | Command Car | 奔驰面包车（消防）
 | 0890 | 气垫船*
 | 0894 | 路标*
-| 1001 | 保时捷跑车
-| 1004 | 宝马警车
-| 1006 | 保时捷911银
-| 1007 | 宝马敞篷跑车
+| 1001 | Porsche Carrera GT | 保时捷跑车
+| 1002 | Mercedes SLK | 奔驰SLK跑车
+| 1004 | Mercedes McLaren SLR | 奔驰SLR跑车* 宝马警车？
+| 1006 | Porsche 911 | 保时捷911跑车（银）？
+| 1007 | BMW 645i Cabrio | 宝马敞篷跑车
 | 1008 | 克拉斯697ATZ拖拉机?
 | 1009 | John Deere 7530 | JD拖拉机* 悍马警车（黑）?
 | 1011 | Tramway | 有轨电车
@@ -136,6 +137,7 @@ Stephen coach(Thomas) Harold
 | 1302 | Smart Police | SMART警车
 | 1303 | Fire Fighter | SMART消防车
 | 1305 | Bugatti EB 16.4 Veyron | 布加迪威龙
+| 1307 | VW Passat Variant | 大众越野车*
 | 1309 | 铲雪车*
 | 1311 | Forklift Truck | 林德叉车
 | 1312 | 割草机*
@@ -187,9 +189,9 @@ Stephen coach(Thomas) Harold
 | 1456 | Cup-Race Porsche 911 | 保时捷911杯赛车
 | 1457 | Porsche 911 Driving School | 保时捷911驾校车
 | 1460 | Fire Command Car | 奥迪消防指挥车
-| 1461 | Emergency Car | 大众救援车
+| 1461 | Emergency Car | 大众越野车（救援）
 | 1462 | 儿童救援车*
-| 1463 | Command Car THW | 大众救援指挥车
+| 1463 | Command Car THW | 大众越野车（指挥）
 | 1467 | 消防皮卡*
 | 1469 | 救援皮卡*
 | 1477 | 装载车*
