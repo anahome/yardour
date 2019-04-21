@@ -70,39 +70,28 @@ Stephen coach(Thomas) Harold
 | No.  | Name | Remarks
 | ---- | ---- | ----
 | 0801 | Excavator | 挖掘机（1611）
-| 0802 | Front Loader | 推土机（1616）
-| 0804 | Police Van | BENZ面包车（警）
-| 0805 | Ambulance | BENZ面包车（急救）
+| 0802 | Front Loader | 铲车（1616）
+| 0804 | Police Van | 奔驰面包车（警）
+| 0805 | Ambulance | 奔驰面包车（急救）
 | 0807 | Helicopter | 直升机（警/1610）
-| 0809 | Ambulance | BENZ面包车（救护）
+| 0809 | Ambulance | 奔驰面包车（救护）
 | 0811 | Refuse Truck | SCANIA垃圾车*
 | 0813 | Cement Mixer | SCANIA搅拌车*
-| 0814 | 奔驰翻斗车*
 | 0817 | Space Shuttle | 航天飞机
-| 0820 | 博世面包车*
-| 0823 | 橙色推土机*
 | 0828 | Recycling Transporter | SCANIA环卫车*
-| 0837 | 保时捷911敞篷*
-| 0839 | 大众甲壳虫敞篷*
-| 0841 | 奥迪跑车*
-| 0842 | 大众高尔夫敞篷*
-| 0843 | 绿色拖拉机*
-| 0844 | 奔驰拖车*
-| 0845 | 福特嘉年华*
-| 0846 | BWM Z3 | 宝马Z3敞篷*
-| 0847 | 红色拖拉机*
-| 0848 | 前置铲斗车*
-| 0849 | Porsche Boxster | 保时捷博克斯特*
-| 0851 | 奔驰SLK 230*
-| 0852 | Vespa ET4 | 韦士柏摩托车*
-| 0853 | OAMTC Helicopter | 测试直升机*
+| 0846 | BWM Z3 | 宝马Z3跑车*
+| 0847 | Massey Ferguson Tractor | MF拖拉机*
+| 0849 | Porsche Boxster | 保时捷Boxster跑车*
+| 0851 | 奔驰SLK230*
+| 0852 | Vespa ET4 | Vespa摩托车*
+| 0853 | OAMTC Helicopter | 直升机（检测）*
 | 0856 | Helicopter | 直升机（救援）
 | 0857 | Road Signs | 路标*
-| 0858 | 芬特926拖拉机？
-| 0859 | Deutz FAHR Agrotron | 道依茨法尔拖拉机？
+| 0858 | Fendt Favorit 926 Vario | FENDT拖拉机*
+| 0859 | DEUTZ-FAHR Agrotron | DF拖拉机*
 | 0860 | Snowmobile | 雪地摩托（橙）
 | 0860 | Snowmobile | 雪地摩托（黄）
-| 0861 | Lanz Bulldog | 拖拉机？
+| 0861 | Lanz Bulldog | LANZ拖拉机*
 | 0863 | 银赛车
 | 0865 | SIKU Sport 3 | ?
 | 0866 | 狙击兵跑车*
@@ -117,13 +106,14 @@ Stephen coach(Thomas) Harold
 | 0878 | 风暴跑车？*
 | 0879 | 火焰威兹曼？*
 | 0880 | SIKU Canyon | 悍马皮卡（黄）
-| 0882 | Command Car | BENZ面包车（消防）
+| 0882 | Command Car | 奔驰面包车（消防）
 | 0890 | 气垫船*
 | 1001 | 保时捷跑车
 | 1004 | 宝马警车
 | 1006 | 保时捷911银
 | 1007 | 宝马敞篷跑车
-| 1009 | John Deere 7530 | 悍马警车（黑）
+| 1008 | 克拉斯697ATZ拖拉机?
+| 1009 | John Deere 7530 | JD拖拉机* 悍马警车（黑）?
 | 1011 | Tramway | 有轨电车
 | 1013 | Local Train | 通勤列车（红）
 | 1013 | Local Train | 通勤列车（蓝）
@@ -139,7 +129,7 @@ Stephen coach(Thomas) Harold
 | 1068 | Fire Engine | 消防车(1636)？
 | 1075 | SCANIA自卸车*
 | 1082 | 消防面包车？
-| 1085 | Post Van | BENZ面包车（快递）
+| 1085 | Post Van | 奔驰面包车（快递）
 | 1099 | 水上飞机*
 | 1302 | Smart Police | SMART警车
 | 1303 | Fire Fighter | SMART消防车
@@ -210,7 +200,7 @@ Stephen coach(Thomas) Harold
 | 1613 | 拖车+游艇
 | 1614 | 拖车+火箭
 | 1615 | Tram | 有轨电车
-| 1616 | 拖车+推土机(0802)
+| 1616 | 拖车+铲车(0802)
 | 1617 | Hinged Bus | 双节巴士
 | 1623 | 重型吊车(黄/蓝)
 | 1624 | Coach Bus | 曼恩长途巴士
