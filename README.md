@@ -153,7 +153,7 @@ Stephen coach(Thomas) Harold
 | 1318 | 兰博基尼敞篷跑车*
 | 1319 | US School Bus | 美式校车
 | 1321 | Double-decker Bus | 双层巴士
-| 1322 | Road Maintenance Lorry | 路政工程车
+| 1322 | Road Maintenance Lorry | SCANIA路政工程车
 | 1325 | Police Motorbike | 宝马警用摩托车*
 | 1326 | Hydraulic Crane | 液压吊车
 | 1330 | Police Mini | MINI警车
