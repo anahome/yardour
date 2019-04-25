@@ -153,12 +153,14 @@ Stephen coach(Thomas) Harold
 | 1330 | Police Mini | MINI警车
 | 1331 | Milk Collecting Truck | SCANIA奶罐车*
 | 1334 | US Police | 悍马警车（蓝）
+| 1334 | US Police | 悍马警车（黑）
 | 1335 | 拖拉机铲车？
 | 1337 | Porsche 911 Turbo | 保时捷911敞篷跑车
+| 1338 | VW Transporter | 大众面包车（蓝）
 | 1341 | 拖拉机铲车？
 | 1342 | Jeep Wrangler | 吉普牧马人*
 | 1345 | 装甲车
-| 1350 | 警用面包车
+| 1350 | Police Team Van | 大众面包车（警）
 | 1352 | 宝马警车
 | 1353 | Bugatti Veyron Grand Sport | 布加迪威龙敞篷*
 | 1355 | 拖拉机铲车？
@@ -175,6 +177,7 @@ Stephen coach(Thomas) Harold
 | 1380 | 林木拖拉机*
 | 1387 | 油罐车*
 | 1404 | US-Patrol Car | 道奇警车
+| 1416 | Motorway Patrol Car | 保时捷卡曼跑车（警）
 | 1418 | Claas Forage Harvester | 收割机？
 | 1422 | Road Patrol Car | 奥迪A4救援车
 | 1424 | 轻型卡车*
@@ -190,7 +193,7 @@ Stephen coach(Thomas) Harold
 | 1457 | Porsche 911 Driving School | 保时捷911驾校车
 | 1460 | Fire Command Car | 奥迪消防指挥车
 | 1461 | Emergency Car | 大众越野车（救援）
-| 1462 | 儿童救援车*
+| 1462 | Children Emergency Doctor | 大众面包车（救援）
 | 1463 | Command Car THW | 大众越野车（指挥）
 | 1467 | 消防皮卡*
 | 1469 | 救援皮卡*
