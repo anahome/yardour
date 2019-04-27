@@ -84,7 +84,7 @@ Stephen coach(Thomas) Harold
 | 0849 | Porsche Boxster | 保时捷Boxster跑车*
 | 0851 | ? | 奔驰SLK230*
 | 0852 | Vespa ET4 | Vespa摩托车*
-| 0853 | OAMTC Helicopter | 直升机（检测）*
+| 0853 | OAMTC Helicopter | 直升机（检测）
 | 0856 | Helicopter | 直升机（救援）
 | 0857 | Road Signs | 路标*
 | 0858 | Fendt Favorit 926 Vario | FENDT拖拉机*
@@ -137,7 +137,7 @@ Stephen coach(Thomas) Harold
 | 1302 | Smart Police | SMART警车
 | 1303 | Fire Fighter | SMART消防车
 | 1305 | Bugatti EB 16.4 Veyron | 布加迪威龙
-| 1307 | VW Passat Variant | 大众越野车*
+| 1307 | VW Passat Variant | 大众越野车
 | 1309 | 铲雪车*
 | 1311 | Forklift Truck | 林德叉车
 | 1312 | 割草机*
