@@ -195,6 +195,7 @@ Stephen coach(Thomas) Harold
 | 1460 | Fire Command Car | 奥迪消防指挥车
 | 1461 | Emergency Car | 大众越野车（救援）
 | 1462 | Children Emergency Doctor | 大众面包车（救援）
+| 1463 | Command Car THW | 大众越野车（消防）
 | 1463 | Command Car THW | 大众越野车（指挥）
 | 1467 | 消防皮卡*
 | 1469 | 救援皮卡*
