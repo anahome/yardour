@@ -117,7 +117,7 @@ Stephen coach(Thomas) Harold
 | 1006 | Porsche 911 | 保时捷911跑车（银）？
 | 1007 | BMW 645i Cabrio | 宝马敞篷跑车
 | 1008 | 克拉斯697ATZ拖拉机?
-| 1009 | John Deere 7530 | JD拖拉机* 悍马警车（黑）?
+| 1009 | John Deere 7530 | JD拖拉机*
 | 1011 | Tramway | 有轨电车
 | 1013 | Local Train | 通勤列车（红）
 | 1013 | Local Train | 通勤列车（蓝）
@@ -154,8 +154,10 @@ Stephen coach(Thomas) Harold
 | 1326 | Hydraulic Crane | 液压吊车
 | 1330 | Police Mini | MINI警车
 | 1331 | Milk Collecting Truck | SCANIA奶罐车*
-| 1334 | US Police | 悍马警车（蓝）
-| 1334 | US Police | 悍马警车（黑）
+| 1334 | US Police | 悍马皮卡车（警/蓝）
+| 1334 | US Police | 悍马皮卡车（警/白）
+| 1334 | US Police | 悍马皮卡车（警/黑）
+| 1334 | US Police | 悍马皮卡车（警/黑）
 | 1335 | 拖拉机铲车？
 | 1337 | Porsche 911 Turbo | 保时捷911敞篷跑车
 | 1338 | VW Transporter | 大众面包车（蓝）
