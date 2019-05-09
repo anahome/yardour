@@ -78,6 +78,7 @@ Stephen coach(Thomas) Harold
 | 0811 | Refuse Truck | SCANIA垃圾车*
 | 0813 | Cement Mixer | SCANIA搅拌车*
 | 0817 | Space Shuttle | 航天飞机
+| 0824 | VW Delivery Van | 大众面包车T4（警）
 | 0828 | Recycling Transporter | SCANIA环卫车*
 | 0846 | BMW Z3 | 宝马Z3跑车
 | 0847 | Massey Ferguson Tractor | MF拖拉机*
