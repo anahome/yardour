@@ -79,7 +79,7 @@ Stephen coach(Thomas) Harold
 | 0813 | Cement Mixer | SCANIA搅拌车*
 | 0817 | Space Shuttle | 航天飞机
 | 0828 | Recycling Transporter | SCANIA环卫车*
-| 0846 | BMW Z3 | 宝马Z3跑车*
+| 0846 | BMW Z3 | 宝马Z3跑车
 | 0847 | Massey Ferguson Tractor | MF拖拉机*
 | 0849 | Porsche Boxster | 保时捷Boxster跑车*
 | 0851 | ? | 奔驰SLK230*
@@ -96,7 +96,7 @@ Stephen coach(Thomas) Harold
 | 0863 | Siku ? | 竞技塞帕跑车*
 | 0865 | Siku Sport 3 | ?
 | 0866 | Siku Sniper | 狙击手跑车*
-| 0867 | Siku Ranger | 福特皮卡*
+| 0867 | Siku Ranger | 福特皮卡
 | 0868 | 福特皮卡*
 | 0869 | Siku Pick Up 3 | 悍马战车？*
 | 0870 | Tank | 豹式坦克*
@@ -128,6 +128,7 @@ Stephen coach(Thomas) Harold
 | 1039 | 芬特拖拉机带推土臂？
 | 1042 | Smart Fortwo Cabrio Convertible | SMART敞篷车
 | 1043 | 道依茨法尔拖拉机带推土臂？
+| 1045 | BMW 545i | 宝马轿车
 | 1047 | 摩托车*
 | 1068 | Fire Engine | 消防车(1636)？
 | 1075 | SCANIA自卸车*
@@ -172,7 +173,7 @@ Stephen coach(Thomas) Harold
 | 1365 | Police Car | 福特银河警车
 | 1370 | 大众出租车
 | 1374 | 橙赛车
-| 1377 | Motorbike | 宝马摩托车
+| 1377 | BMW R 1100 RS Motorbike | 宝马摩托车
 | 1379 | 拖拉机带装载机？
 | 1380 | 林木拖拉机*
 | 1387 | 油罐车*
@@ -200,6 +201,8 @@ Stephen coach(Thomas) Harold
 | 1477 | 装载车*
 | 1486 | 翻斗车*
 | 1490 | 出租车
+| 1499 | smart | SMART跑车
+| 1516 | Tipper Truck and Trailer
 | 1518 | Skip Lorry with Trailer | 卡车+挂车
 | 1528 | 保时捷911警车
 | 1610 | 拖车+直升机(警/0807)
