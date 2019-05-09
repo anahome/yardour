@@ -156,8 +156,8 @@ Stephen coach(Thomas) Harold
 | 1331 | Milk Collecting Truck | SCANIA奶罐车*
 | 1334 | US Police | 悍马皮卡车（警/蓝）
 | 1334 | US Police | 悍马皮卡车（警/白）
-| 1334 | US Police | 悍马皮卡车（警/黑）
-| 1334 | US Police | 悍马皮卡车（警/黑）
+| 1334 | US Police | 悍马皮卡车（警/黑/县）
+| 1334 | US Police | 悍马皮卡车（警/黑/州）
 | 1335 | 拖拉机铲车？
 | 1337 | Porsche 911 Turbo | 保时捷911敞篷跑车
 | 1338 | VW Transporter | 大众面包车（蓝）
