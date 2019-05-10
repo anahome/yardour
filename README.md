@@ -211,11 +211,11 @@ Stephen coach(Thomas) Harold
 | 1518 | Skip Lorry with Trailer | 卡车+挂车
 | 1528 | 保时捷911警车
 | 1610 | 拖车+直升机(警/0807)
-| 1611 | 拖车+挖掘机(0801)
+| 1611 | Low Loader with Excavator | SCANIA牵引车+半挂车+挖掘机（0801）
 | 1613 | 拖车+游艇
 | 1614 | 拖车+火箭
 | 1615 | Tram | 有轨电车
-| 1616 | 拖车+铲车(0802)
+| 1616 | Low Loader with Front Loader | SCANIA牵引车+半挂车+铲车（0802）
 | 1617 | Hinged Bus | 双节巴士
 | 1623 | 重型吊车(黄/蓝)
 | 1624 | Coach Bus | 曼恩长途巴士
