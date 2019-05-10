@@ -83,7 +83,7 @@ Stephen coach(Thomas) Harold
 | 0846 | BMW Z3 | 宝马Z3跑车
 | 0847 | Massey Ferguson Tractor | MF拖拉机*
 | 0849 | Porsche Boxster | 保时捷Boxster跑车*
-| 0851 | ? | 奔驰SLK230*
+| 0851 | Mercedes SLK230 | 奔驰SLK230跑车
 | 0852 | Vespa ET4 | Vespa摩托车*
 | 0853 | OAMTC Helicopter | 直升机（检测）
 | 0856 | Helicopter | 直升机（救援）
@@ -202,6 +202,7 @@ Stephen coach(Thomas) Harold
 | 1463 | Command Car THW | 大众越野车（指挥）
 | 1467 | 消防皮卡*
 | 1469 | 救援皮卡*
+| 1470 | Mercedes 300SL | 奔驰300SL跑车
 | 1477 | 装载车*
 | 1486 | 翻斗车*
 | 1490 | 出租车
