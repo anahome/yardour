@@ -90,8 +90,8 @@ Stephen coach(Thomas) Harold
 | 0857 | Road Signs | 路标*
 | 0858 | Fendt Favorit 926 Vario | FENDT拖拉机*
 | 0859 | DEUTZ-FAHR Agrotron | DF拖拉机*
-| 0860 | Snowmobile | 雪地摩托（橙）
-| 0860 | Snowmobile | 雪地摩托（黄）
+| 0860 | Snowmobile | 雪地摩托车（橙）
+| 0860 | Snowmobile | 雪地摩托车（黄）
 | 0861 | Lanz Bulldog | LANZ拖拉机*
 | 0863 | 银赛车？
 | 0863 | Siku ? | 竞技塞帕跑车*
@@ -210,12 +210,12 @@ Stephen coach(Thomas) Harold
 | 1516 | Tipper Truck and Trailer
 | 1518 | Skip Lorry with Trailer | 卡车+挂车
 | 1528 | 保时捷911警车
-| 1610 | 拖车+直升机(警/0807)
-| 1611 | Low Loader with Excavator | SCANIA牵引车+半挂车+挖掘机（0801）
+| 1610 | Low Loader with Helicopter | SCANIA牵引车+平板半挂车+直升机（警/0807）
+| 1611 | Low Loader with Excavator | SCANIA牵引车+平板半挂车+挖掘机（0801）
 | 1613 | 拖车+游艇
-| 1614 | 拖车+火箭
+| 1614 | Low Loader with Rocket | SCANIA牵引车+平板半挂车+运载火箭
 | 1615 | Tram | 有轨电车
-| 1616 | Low Loader with Front Loader | SCANIA牵引车+半挂车+铲车（0802）
+| 1616 | Low Loader with Front Loader | SCANIA牵引车+平板半挂车+铲车（0802）
 | 1617 | Hinged Bus | 双节巴士
 | 1623 | 重型吊车(黄/蓝)
 | 1624 | Coach Bus | 曼恩长途巴士
