@@ -253,12 +253,14 @@ Stephen coach(Thomas) Harold
 | 2109 | 奔驰消防车*
 | 2113 | 奔驰消防车*
 | 2114 | 云梯消防车*
-| 2308 | 奔驰警车
-| 2309 | 道奇警车/救援车
+| 2308 | Mercedes-AMG G65 Federal Police | 奔驰越野车（警）
+| 2309 | US Police | 道奇皮卡车（警）
 | 2314 | Quad with Jet Ski | 四轮摩托车+摩托艇？
+| 2350 | Mercedes-Benz G65 AMG | 奔驰越野车（黄）*
 | 2527 | 救援直升机*
-| 2544 | Car with Trailer | 前车拖后车
-| 2549 | 保时捷消防车带气垫船
+| 2544 | Car with Trailer | 前车拖后车~
+| 2549 | 保时捷消防车带气垫船~
+| 3505 | RAM 1500 with Compresser Trailer | 道奇皮卡车（救援）+压缩机全挂车*
 | 3533 | Lierherr R580 Four Wheel Loader | 利勃海尔推土机
 | 3731 | US School Bus | 美式校车*
 | 3734 | Bus MAN Lion's City | 曼恩单节巴士
