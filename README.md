@@ -85,8 +85,9 @@ Stephen coach(Thomas) Harold
 | 0849 | Porsche Boxster | 保时捷Boxster跑车*
 | 0851 | Mercedes SLK230 | 奔驰SLK230跑车
 | 0852 | Vespa ET4 | Vespa摩托车*
-| 0853 | OAMTC Helicopter | 直升机（检测）
-| 0856 | Helicopter | 直升机（救援）
+| 0853 | OAMTC Helicopter | 直升机（救援）
+| 0856 | Helicopter | 直升机（急救/黄）
+| 0856 | Helicopter | 直升机（急救/红）
 | 0857 | Road Signs | 路标*
 | 0858 | Fendt Favorit 926 Vario | FENDT拖拉机*
 | 0859 | DEUTZ-FAHR Agrotron | DF拖拉机*
@@ -244,7 +245,7 @@ Stephen coach(Thomas) Harold
 | 1837 | Low Loader with John Deere Tractors | 美式牵引车（绿）+中型平板半挂车+JD拖拉机+JD拖拉机
 | 1846 | 拖拉机+杂物车~
 | 1849 | Heavy Haulage Transporter with Yacht | 曼恩牵引车+重型平板半挂车+游艇
-| 1850 | Rescue Service Set | 奔驰救护车+救援直升机~
+| 1850 | Rescue Service Set | 奔驰客货车（急救）+直升机（急救）
 | 1857 | Low Loader with MF Tractors | 美式牵引车（红）+中型平板半挂车+MF拖拉机+MF拖拉机*
 | 1859 | Telescopic Crane Truck | 利勃海尔吊车
 | 1864 | US School Bus | 美式校车
