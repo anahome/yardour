@@ -263,7 +263,7 @@ Stephen coach(Thomas) Harold
 | 3731 | US School Bus | 美式校车*
 | 3734 | Bus MAN Lion's City | 曼恩单节巴士
 | 3736 | Articulated Bus | 曼恩双节巴士
-| 3921 | Truck with Container | 奔驰牵引车+双集装箱半挂车
-| 3934 | Car Transporter | 奔驰牵引车+车辆运输半挂车
+| 3921 | Truck with Container | 奔驰牵引车+双集装箱半挂车+集装箱+集装箱
+| 3934 | Car Transporter | 奔驰牵引车+车辆运输半挂车+（威兹曼跑车？+风暴跑车？）
 | 4114 | Magirus Fire Engine | 马吉鲁斯消防车
 | 6281 | Gift Set | 礼品装？
