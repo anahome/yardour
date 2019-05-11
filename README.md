@@ -98,7 +98,7 @@ Stephen coach(Thomas) Harold
 | 0863 | Siku ? | 竞技塞帕跑车*
 | 0865 | Siku Sport 3 | ?
 | 0866 | Siku Sniper | 狙击手跑车*
-| 0867 | Siku Ranger | 福特皮卡
+| 0867 | Siku Ranger | 福特皮卡车
 | 0868 | 福特皮卡*
 | 0869 | Siku Pick Up 3 | 悍马皮卡车（军）
 | 0870 | Tank | 豹式坦克*
@@ -117,7 +117,7 @@ Stephen coach(Thomas) Harold
 | 1004 | Mercedes McLaren SLR | 奔驰SLR跑车* 宝马警车？
 | 1006 | Porsche 911 | 保时捷911跑车（银）？
 | 1007 | BMW 645i Cabrio | 宝马敞篷跑车
-| 1008 | 克拉斯697ATZ拖拉机?
+| 1008 | 克拉斯#697ATZ拖拉机?
 | 1009 | John Deere 7530 | JD拖拉机*
 | 1011 | Tramway | 有轨电车
 | 1013 | Local Train | 通勤列车（红）
@@ -171,11 +171,11 @@ Stephen coach(Thomas) Harold
 | 1355 | 拖拉机铲车？
 | 1357 | Racing Car | 红赛车
 | 1358 | 蓝赛车
-| 1360 | Taxi | 大众商务车（出租）
+| 1360 | Taxi | 大众面包车（出租）
 | 1361 | Police | 甲壳虫警车
 | 1365 | Police Car | 奥迪A4警车
 | 1365 | Police Car | 福特银河警车
-| 1370 | 大众出租车
+| 1370 | Postal Service | 大众出租车
 | 1374 | 橙赛车
 | 1377 | BMW R 1100 RS Motorbike | 宝马摩托车
 | 1379 | 拖拉机带装载机？
@@ -260,7 +260,7 @@ Stephen coach(Thomas) Harold
 | 1896 | Mixer Truck | SCANIA搅拌车
 | 1898 | Winter Service Truck | SCANIA铲雪车
 | 1899 | Tower Slewing Crane | 利勃海尔吊塔
-| 1935 | Postcar | 奔驰面包车（邮政）
+| 1935 | Postcar | 奔驰面包车（出租）
 | 1936 | Postcar | 奔驰客货车（快递）
 | 2108 | Rescue Van | 奔驰客货车（急救）
 | 2109 | 奔驰消防车*
