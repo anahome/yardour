@@ -210,46 +210,53 @@ Stephen coach(Thomas) Harold
 | 1516 | Tipper Truck and Trailer
 | 1518 | Skip Lorry with Trailer | 卡车+挂车
 | 1528 | 保时捷911警车
-| 1610 | Low Loader with Helicopter | SCANIA牵引车+平板半挂车+直升机（警/0807）
-| 1611 | Low Loader with Excavator | SCANIA牵引车+平板半挂车+挖掘机（0801）
-| 1613 | 拖车+游艇
-| 1614 | Low Loader with Rocket | SCANIA牵引车+平板半挂车+运载火箭
+| 1610 | Low Loader with Helicopter | SCANIA牵引车（银）+中型平板半挂车+直升机（警/0807）
+| 1611 | Low Loader with Excavator | SCANIA牵引车（黄）+中型平板半挂车+挖掘机（0801）
+| 1613 | Low Loader with Boot | SCANIA牵引车（红）+中型平板半挂车+快艇
+| 1614 | Low Loader with Rocket | SCANIA牵引车（黄）+火箭平板半挂车+运载火箭
 | 1615 | Tram | 有轨电车
-| 1616 | Low Loader with Front Loader | SCANIA牵引车+平板半挂车+铲车（0802）
+| 1616 | Low Loader with Front Loader | SCANIA牵引车（黄）+中型平板半挂车+铲车（0802）
 | 1617 | Hinged Bus | 双节巴士
-| 1623 | 重型吊车(黄/蓝)
+| 1623 | Mega Lifter | 重型吊车(黄)
+| 1623 | Mega Lifter | 重型吊车(蓝)
 | 1624 | Coach Bus | 曼恩长途巴士
-| 1625 | 拖拉机+收纳斗车
-| 1626 | 油罐拖车
-| 1627 | 箱式拖车
-| 1636 | 消防车+快艇
+| 1625 | 拖拉机+收纳斗车~
+| 1626 | Tanker with Trailer | 沃尔沃牵引车（蓝）+油罐半挂车
+| 1627 | Articulated Truck with Trailer | 沃尔沃牵引车（黑）+集装箱半挂车
+| 1627 | Articulated Truck with Trailer | 沃尔沃牵引车（绿）+集装箱半挂车
+| 1636 | 消防车+快艇~
 | 1646 | Local Train | 通勤列车
 | 1647 | 消防直升机*
-| 1659 | 木材拖车
+| 1659 | Log Transporter | 沃尔沃牵引车（蓝）+木材平板半挂车+木材+木材
 | 1661 | 消防车套装*
-| 1671 | 露营巴士
-| 1673 | 拖拉机+撒肥车
+| 1671 | Niesmann Traveling Mobile Home | Niesmann房车
+| 1673 | 拖拉机+撒肥车~
 | 1683 | 装卸卡车*
 | 1685 | 自卸车+自卸车*
 | 1750 | Car Ferry | 汽车摆渡船
 | 1791 | Double Deck Train | 双层列车*
-| 1805 | 黄拖车+拖拉机
-| 1806 | Road Train | 公路列车
-| 1809 | 油罐车+油罐车
-| 1837 | 绿拖车+拖拉机
-| 1846 | 拖拉机+杂物车
-| 1849 | 拖车+游艇
-| 1850 | Rescue Service Set | 奔驰救护车+救援直升机
+| 1795 | Truck with Tank Container | 奔驰牵引车+集装箱平板半挂车+油罐集装箱
+| 1796 | Truck with Trailer and Roof | 奔驰牵引车+自卸带篷半挂车
+| 1805 | Truck with New Holland Tractors | 美式牵引车（黄）+中型平板半挂车+NH拖拉机+NH拖拉机
+| 1806 | Road Train | 美式牵引车+集装箱半挂车+集装箱全挂车
+| 1809 | Truck with Feedstuff Silo | 奔驰油罐车+油罐全挂车
+| 1837 | Low Loader with John Deere Tractors | 美式牵引车（绿）+中型平板半挂车+JD拖拉机+JD拖拉机
+| 1846 | 拖拉机+杂物车~
+| 1849 | Heavy Haulage Transporter with Yacht | 曼恩牵引车+重型平板半挂车+游艇
+| 1850 | Rescue Service Set | 奔驰救护车+救援直升机~
+| 1857 | Low Loader with MF Tractors | 美式牵引车（红）+中型平板半挂车+MF拖拉机+MF拖拉机*
+| 1859 | Telescopic Crane Truck | 利勃海尔吊车
 | 1864 | US School Bus | 美式校车
-| 1866 | 拖车+飞机
-| 1872 | 拖车+豹式坦克
+| 1866 | Truck with Sporting Airplane | 奔驰牵引车+中型平板半挂车+运动型飞机
+| 1872 | Heavy Haulage Transporter with Tank | 曼恩牵引车+重型平板半挂车+坦克
+| 1877 | Volvo Dumper | 沃尔沃自卸车
 | 1884 | Double Decker City Bus | 曼恩双层巴士
-| 1890 | 垃圾车
+| 1890 | Refuse Truck | SCANIA垃圾车
 | 1895 | Tramway | 庞巴迪有轨电车*
-| 1896 | Mixer Truck | 搅拌车
-| 1898 | 铲雪车
-| 1899 | Tower Slewing Crane | 吊塔
-| 2108 | 救护车
+| 1896 | Mixer Truck | SCANIA搅拌车
+| 1898 | Winter Service Truck | SCANIA铲雪车
+| 1899 | Tower Slewing Crane | 利勃海尔吊塔
+| 2108 | Rescue Van | 奔驰客货车（急救）
 | 2109 | 奔驰消防车*
 | 2113 | 奔驰消防车*
 | 2114 | 云梯消防车*
@@ -260,12 +267,13 @@ Stephen coach(Thomas) Harold
 | 2527 | 救援直升机*
 | 2544 | Car with Trailer | 前车拖后车~
 | 2549 | 保时捷消防车带气垫船~
-| 3505 | RAM 1500 with Compresser Trailer | 道奇皮卡车（救援）+压缩机全挂车*
+| 3505 | RAM 1500 with Compresser Trailer | 道奇皮卡车（救援）+（压缩机全挂车*
 | 3533 | Lierherr R580 Four Wheel Loader | 利勃海尔推土机
 | 3731 | US School Bus | 美式校车*
 | 3734 | Bus MAN Lion's City | 曼恩单节巴士
 | 3736 | Articulated Bus | 曼恩双节巴士
-| 3921 | Truck with Container | 奔驰牵引车+双集装箱半挂车+集装箱+集装箱
-| 3934 | Car Transporter | 奔驰牵引车+车辆运输半挂车+（威兹曼跑车？+风暴跑车？）
+| 3758 | Land Rover with Horse Box | 路虎皮卡车（马）
+| 3921 | Truck with Container | 奔驰牵引车+双集装箱平板半挂车+集装箱+集装箱
+| 3934 | Car Transporter | 奔驰牵引车+双层车辆运输半挂车+（威兹曼跑车？+风暴跑车？）
 | 4114 | Magirus Fire Engine | 马吉鲁斯消防车
 | 6281 | Gift Set | 礼品装？
