@@ -69,21 +69,21 @@ Stephen coach(Thomas) Harold
 
 | No.  | Name | Remarks
 | ---- | ---- | ----
-| 0801 | Excavator | 挖掘机（1611）
+| 0801 | Excavator | 挖机（1611）
 | 0802 | Front Loader | 铲车（1616）
 | 0804 | Police Van | 奔驰面包车（警）
 | 0805 | Ambulance | 奔驰面包车（急救）
 | 0807 | Helicopter | 直升机（警/1610）
 | 0809 | Ambulance | 奔驰面包车（救护）
-| 0811 | Refuse Truck | SCANIA垃圾车*
-| 0813 | Cement Mixer | SCANIA搅拌车*
+| 0811 | Refuse Truck | 斯堪尼亚垃圾车*
+| 0813 | Cement Mixer | 斯堪尼亚搅拌车*
 | 0817 | Space Shuttle | 航天飞机
 | 0824 | VW Delivery Van | 大众面包车T4（警）
-| 0828 | Recycling Transporter | SCANIA环卫车*
-| 0846 | BMW Z3 | 宝马Z3跑车
+| 0828 | Recycling Transporter | 斯堪尼亚环卫车*
+| 0846 | BMW Z3 | 宝马跑车Z3
 | 0847 | Massey Ferguson Tractor | MF拖拉机*
-| 0849 | Porsche Boxster | 保时捷Boxster跑车*
-| 0851 | Mercedes SLK230 | 奔驰SLK230跑车
+| 0849 | Porsche Boxster | 保时捷跑车Boxster*
+| 0851 | Mercedes SLK230 | 奔驰跑车SLK230
 | 0852 | Vespa ET4 | Vespa摩托车*
 | 0853 | OAMTC Helicopter | 直升机（救援）
 | 0856 | Helicopter | 直升机（急救/黄）
@@ -171,7 +171,7 @@ Stephen coach(Thomas) Harold
 | 1355 | 拖拉机铲车？
 | 1357 | Racing Car | 红赛车
 | 1358 | 蓝赛车
-| 1360 | Taxi | 商务出租车
+| 1360 | Taxi | 大众商务车（出租）
 | 1361 | Police | 甲壳虫警车
 | 1365 | Police Car | 奥迪A4警车
 | 1365 | Police Car | 福特银河警车
