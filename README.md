@@ -248,7 +248,7 @@ Stephen coach(Thomas) Harold
 | 1895 | Tramway | 庞巴迪有轨电车*
 | 1896 | Mixer Truck | 搅拌车
 | 1898 | 铲雪车
-| 1899 | 吊塔
+| 1899 | Tower Slewing Crane | 吊塔
 | 2108 | 救护车
 | 2109 | 奔驰消防车*
 | 2113 | 奔驰消防车*
