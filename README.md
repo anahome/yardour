@@ -231,7 +231,7 @@ Stephen coach(Thomas) Harold
 | 1673 | 拖拉机+撒肥车
 | 1683 | 装卸卡车*
 | 1685 | 自卸车+自卸车*
-| 1750 | 汽车渡轮
+| 1750 | Car Ferry | 汽车摆渡船
 | 1791 | Double Deck Train | 双层列车*
 | 1805 | 黄拖车+拖拉机
 | 1806 | Road Train | 公路列车
