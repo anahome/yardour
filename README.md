@@ -240,6 +240,7 @@ Stephen coach(Thomas) Harold
 | 1805 | Truck with New Holland Tractors | 美式牵引车（黄）+中型平板半挂车+NH拖拉机+NH拖拉机
 | 1806 | Road Train | 美式牵引车+集装箱半挂车+集装箱全挂车
 | 1809 | Truck with Feedstuff Silo | 奔驰油罐车+油罐全挂车
+| 1810 | Construction Set | 利勃海尔铲车（1873）+利勃海尔挖掘机（1874）+沃尔沃翻斗车（1877）
 | 1837 | Low Loader with John Deere Tractors | 美式牵引车（绿）+中型平板半挂车+JD拖拉机+JD拖拉机
 | 1846 | 拖拉机+杂物车~
 | 1849 | Heavy Haulage Transporter with Yacht | 曼恩牵引车+重型平板半挂车+游艇
@@ -249,6 +250,8 @@ Stephen coach(Thomas) Harold
 | 1864 | US School Bus | 美式校车
 | 1866 | Truck with Sporting Airplane | 奔驰牵引车+中型平板半挂车+运动型飞机
 | 1872 | Heavy Haulage Transporter with Tank | 曼恩牵引车+重型平板半挂车+坦克
+| 1873 | Four Wheel Loader | 利勃海尔铲车*
+| 1874 | Liebherr Hydraulic Excavator | 利勃海尔挖掘机
 | 1877 | Volvo Dumper | 沃尔沃自卸车
 | 1884 | Double Decker City Bus | 曼恩双层巴士
 | 1890 | Refuse Truck | SCANIA垃圾车
@@ -272,7 +275,7 @@ Stephen coach(Thomas) Harold
 | 3505 | RAM 1500 with Compresser Trailer | 道奇皮卡车（救援）+（压缩机全挂车*
 | 3530 | Compactor | HAMM压路机
 | 3531 | Back Hoe Loader | TEREX反铲挖掘机*
-| 3533 | Lierherr R580 Four Wheel Loader | 利勃海尔推土机
+| 3533 | Lierherr R580 Four Wheel Loader | 利勃海尔铲车
 | 3731 | US School Bus | 美式校车*
 | 3734 | Bus MAN Lion's City | 曼恩单节巴士
 | 3736 | Articulated Bus | 曼恩双节巴士
