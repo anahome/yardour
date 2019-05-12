@@ -123,7 +123,7 @@ Stephen coach(Thomas) Harold
 | 1013 | Local Train | 通勤列车（红）
 | 1013 | Local Train | 通勤列车（蓝）
 | 1015 | Fire Engine | 奔驰云梯消防车
-| 1021 | City Bus | 城市巴士
+| 1021 | City Bus | 单节巴士
 | 1022 | Camping Car | 依维柯房车
 | 1034 | Water Cannon | 奔驰水枪消防车
 | 1037 | 雪地清理机*
