@@ -101,13 +101,13 @@ Stephen coach(Thomas) Harold
 | 0867 | Siku Ranger | 福特皮卡车
 | 0868 | 福特皮卡*
 | 0869 | Siku Pick Up 3 | 悍马皮卡车（军）
-| 0870 | Tank | 豹式坦克*
+| 0870 | Tank | 坦克*
 | 0872 | 武装直升机*
 | 0873 | 战斗机*
 | 0875 | Siku Storm | 风暴跑车
 | 0876 | Siku Lightning | 闪电跑车*
 | 0878 | Siku Hurricane | 风暴跑车？*
-| 0879 | Wiesmann GT MF4 | 火焰威兹曼？*
+| 0879 | Wiesmann GT MF4 | 威兹曼跑车（火焰）？
 | 0880 | SIKU Canyon | 悍马皮卡车（黄）
 | 0882 | Command Car | 奔驰面包车（消防）
 | 0890 | 气垫船*
