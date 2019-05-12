@@ -227,7 +227,7 @@ Stephen coach(Thomas) Harold
 | 1627 | Articulated Truck with Trailer | 沃尔沃牵引车（绿）+集装箱半挂车
 | 1636 | 消防车+快艇~
 | 1646 | Local Train | 通勤列车
-| 1647 | 消防直升机*
+| 1647 | Helicopter | 直升机（急救/1850）
 | 1659 | Log Transporter | 沃尔沃牵引车（蓝）+木材平板半挂车+木材+木材
 | 1661 | 消防车套装*
 | 1671 | Niesmann Traveling Mobile Home | Niesmann房车
@@ -245,7 +245,7 @@ Stephen coach(Thomas) Harold
 | 1837 | Low Loader with John Deere Tractors | 美式牵引车（绿）+中型平板半挂车+JD拖拉机+JD拖拉机
 | 1846 | 拖拉机+杂物车~
 | 1849 | Heavy Haulage Transporter with Yacht | 曼恩牵引车+重型平板半挂车+游艇
-| 1850 | Rescue Service Set | 奔驰客货车（急救）+直升机（急救）
+| 1850 | Rescue Service Set | 奔驰客货车（急救）+直升机（急救/1647）
 | 1857 | Low Loader with MF Tractors | 美式牵引车（红）+中型平板半挂车+MF拖拉机+MF拖拉机*
 | 1859 | Telescopic Crane Truck | 利勃海尔吊车
 | 1864 | US School Bus | 美式校车
