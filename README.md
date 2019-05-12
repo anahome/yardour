@@ -112,7 +112,7 @@ Stephen coach(Thomas) Harold
 | 0882 | Command Car | 奔驰面包车（消防）
 | 0890 | 气垫船*
 | 0894 | 路标*
-| 1001 | Porsche Carrera GT | 保时捷跑车
+| 1001 | Porsche Carrera GT | 保时捷跑车GT
 | 1002 | Mercedes SLK | 奔驰SLK跑车
 | 1004 | Mercedes McLaren SLR | 奔驰SLR跑车* 宝马警车？
 | 1006 | Porsche 911 | 保时捷911跑车（银）？
@@ -140,7 +140,7 @@ Stephen coach(Thomas) Harold
 | 1302 | Smart Police | SMART警车
 | 1303 | Fire Fighter | SMART消防车
 | 1305 | Bugatti EB 16.4 Veyron | 布加迪威龙
-| 1307 | VW Passat Variant | 大众越野车
+| 1307 | VW Passat Variant | 大众越野车（？）
 | 1309 | 铲雪车*
 | 1311 | Forklift Truck | 林德叉车
 | 1312 | 割草机*
@@ -186,7 +186,7 @@ Stephen coach(Thomas) Harold
 | 1418 | Claas Forage Harvester | 收割机？
 | 1422 | Road Patrol Car | 奥迪A4救援车
 | 1424 | 轻型卡车*
-| 1430 | Audi R8 | 奥迪R8跑车*
+| 1430 | Audi R8 | 奥迪跑车R8
 | 1433 | Porsche Cayman | 保时捷卡曼
 | 1434 | Dodge Viper | 道奇蝰蛇
 | 1436 | KTM X-BOW GT | KTM跑车
@@ -203,7 +203,7 @@ Stephen coach(Thomas) Harold
 | 1463 | Command Car THW | 大众越野车（指挥）
 | 1467 | 消防皮卡*
 | 1469 | 救援皮卡*
-| 1470 | Mercedes 300SL | 奔驰300SL跑车
+| 1470 | Mercedes 300SL | 奔驰跑车300SL
 | 1477 | 装载车*
 | 1486 | 翻斗车*
 | 1490 | 出租车
@@ -220,30 +220,30 @@ Stephen coach(Thomas) Harold
 | 1617 | Hinged Bus | 双节巴士
 | 1623 | Mega Lifter | 重型吊车(黄)
 | 1623 | Mega Lifter | 重型吊车(蓝)
-| 1624 | Coach Bus | 曼恩长途巴士
+| 1624 | Coach Bus | 曼恩长途巴士（火焰）
 | 1625 | 拖拉机+收纳斗车~
 | 1626 | Tanker with Trailer | 沃尔沃牵引车（蓝）+油罐半挂车
 | 1627 | Articulated Truck with Trailer | 沃尔沃牵引车（黑）+集装箱半挂车
 | 1627 | Articulated Truck with Trailer | 沃尔沃牵引车（绿）+集装箱半挂车
-| 1636 | 消防车+快艇~
+| 1636 | Unimog Fire Engine with Boot | 奔驰消防车+小艇全挂车+小艇~
 | 1646 | Local Train | 通勤列车
 | 1647 | Helicopter | 直升机（急救/1850）
 | 1659 | Log Transporter | 沃尔沃牵引车（蓝）+木材平板半挂车+木材+木材
 | 1661 | 消防车套装*
 | 1671 | Niesmann Traveling Mobile Home | Niesmann房车
 | 1673 | 拖拉机+撒肥车~
-| 1683 | 装卸卡车*
+| 1683 | Volvo Roll-off Tipper with Crane | 沃尔沃吊装自卸车～
 | 1685 | 自卸车+自卸车*
 | 1750 | Car Ferry | 汽车摆渡船
 | 1791 | Double Deck Train | 双层列车*
 | 1795 | Truck with Tank Container | 奔驰牵引车+集装箱平板半挂车+油罐集装箱
 | 1796 | Truck with Trailer and Roof | 奔驰牵引车+自卸带篷半挂车
 | 1805 | Truck with New Holland Tractors | 美式牵引车（黄）+中型平板半挂车+NH拖拉机+NH拖拉机
-| 1806 | Road Train | 美式牵引车+集装箱半挂车+集装箱全挂车
+| 1806 | Road Train | 美式牵引车+集装箱半挂车+半挂衔接全挂车+集装箱半挂车
 | 1809 | Truck with Feedstuff Silo | 奔驰油罐车+油罐全挂车
 | 1810 | Construction Set | 利勃海尔铲车（1873）+利勃海尔挖掘机（1874）+沃尔沃翻斗车（1877）
 | 1837 | Low Loader with John Deere Tractors | 美式牵引车（绿）+中型平板半挂车+JD拖拉机+JD拖拉机
-| 1846 | 拖拉机+杂物车~
+| 1846 | Claas with Forage Wagon | Claas拖拉机+饲料全挂车~
 | 1849 | Heavy Haulage Transporter with Yacht | 曼恩牵引车+重型平板半挂车+游艇
 | 1850 | Rescue Service Set | 奔驰客货车（急救）+直升机（急救/1647）
 | 1857 | Low Loader with MF Tractors | 美式牵引车（红）+中型平板半挂车+MF拖拉机+MF拖拉机*
