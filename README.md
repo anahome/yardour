@@ -119,7 +119,7 @@ Stephen coach(Thomas) Harold
 | 1001 | Porsche Carrera GT | 保时捷跑车GT（红）x2~
 | 1001 | Porsche Carrera GT | 保时捷跑车GT（银/2544）
 | 1002 | Mercedes SLK | 奔驰SLK跑车~
-| 1004 | Mercedes McLaren SLR | 奔驰SLR跑车* 宝马警车？
+| 1004 | Mercedes McLaren SLR | 奔驰SLR跑车*
 | 1006 | Porsche 911 | 保时捷跑车911（警）
 | 1006 | Porsche 911 | 保时捷跑车911（银）
 | 1006 | Porsche 911 | 保时捷跑车911（蓝）
@@ -184,14 +184,13 @@ Stephen coach(Thomas) Harold
 | 1355 | 拖拉机铲车？
 | 1357 | Racing Car | 赛车（红/7）
 | 1357 | Racing Car | 赛车（银）
-| 1358 | 蓝赛车~
+| 1358 | Formula 1 Racing Car | 赛车（白/5）
 | 1360 | Taxi | 大众面包车T5（出租）
 | 1361 | Police | 甲壳虫轿车（警）
 | 1363 | Taxi | 奔驰轿车E500（出租）
 | 1365 | Police Car | 奥迪越野车A4（警）
 | 1365 | Police Car | 福特越野车Galaxy（警）
 | 1370 | Postal Service | 大众轿车Polo（出租）
-| 1374 | Racing Car | 赛车（白/5）
 | 1374 | Racing Car | 赛车（银/9）
 | 1377 | BMW R 1100 RS Motorbike | 宝马摩托车
 | 1379 | 拖拉机带装载机？
@@ -205,14 +204,14 @@ Stephen coach(Thomas) Harold
 | 1424 | 轻型卡车*
 | 1430 | Audi R8 | 奥迪跑车R8~
 | 1432 | BMW X5 | 宝马越野车X5
-| 1433 | Porsche Cayman | 保时捷卡曼~
+| 1433 | Porsche Cayman | 保时捷跑车Cayman
 | 1434 | Dodge Viper | 道奇跑车Viper（黄）
 | 1434 | Dodge Viper | 道奇跑车Viper（白）*
 | 1436 | KTM X-BOW GT | KTM跑车
 | 1440 | Toyota Landcruiser | 丰田越野车~
 | 1444 | Gumpert Apollo | 阿波罗跑车
 | 1449 | Lamborghini Aventador LP700-4 | 兰博基尼LP700~
-| 1452 | 保时捷卡宴~
+| 1452 | Porsche Macan Turbo | 保时捷越野车Macan
 | 1454 | 宝马MINI~
 | 1456 | Cup-Race Porsche 911 | 保时捷跑车911（杯赛）~
 | 1457 | Porsche 911 Driving School | 保时捷跑车911（驾校）
@@ -254,7 +253,7 @@ Stephen coach(Thomas) Harold
 | 1659 | Log Transporter | 沃尔沃牵引车（蓝）+木材平板半挂车+木材+木材
 | 1661 | 消防车套装*
 | 1671 | Niesmann Traveling Mobile Home | Niesmann房车
-| 1673 | 拖拉机+撒肥车~
+| 1673 | Tractor with xxx xxx | 拖拉机+撒肥全挂车~
 | 1683 | Volvo Roll-off Tipper with Crane | 沃尔沃吊装自卸车
 | 1685 | 自卸车+自卸车*
 | 1726 | Mein Schiff 1 | 迈希夫1号邮轮
@@ -268,7 +267,7 @@ Stephen coach(Thomas) Harold
 | 1810 | Construction Set | 利勃海尔铲车（1873）+利勃海尔挖掘机（1874）+沃尔沃翻斗车（1877）
 | 1837 | Low Loader with John Deere Tractors | 美式牵引车（绿）+中型平板半挂车+JD拖拉机+JD拖拉机
 | 1844 | Massey Ferguson Tractor with Trailer | MF拖拉机8480+自卸全挂车
-| 1846 | Claas with Forage Wagon | Claas拖拉机+饲料全挂车~
+| 1846 | Claas with Forage Wagon | Claas拖拉机+饲料全挂车
 | 1849 | Heavy Haulage Transporter with Yacht | 曼恩牵引车+重型平板半挂车+游艇
 | 1850 | Rescue Service Set | 奔驰客货车（急救）+直升机（急救/1647）
 | 1857 | Low Loader with MF Tractors | 美式牵引车（红）+中型平板半挂车+MF拖拉机+MF拖拉机*
@@ -311,4 +310,4 @@ Stephen coach(Thomas) Harold
 | 3921 | Truck with Container | 奔驰牵引车+双集装箱平板半挂车+集装箱+集装箱
 | 3934 | Car Transporter | 奔驰牵引车+双层车辆运输半挂车+（威兹曼跑车？+风暴跑车？）
 | 4114 | Magirus Fire Engine | 马吉鲁斯消防车
-| 6281 | Gift Set | 礼品装？
+| 6281 | Gift Set | 礼品装（0879/0863/0878/0875/0866）
