@@ -107,7 +107,9 @@ Stephen coach(Thomas) Harold
 | 0875 | Siku Storm | 风暴跑车x2
 | 0876 | Siku Lightning | 闪电跑车*
 | 0878 | Siku Hurricane | 飓风跑车？*
-| 0879 | Wiesmann GT MF4 | 威兹曼跑车（火焰）？
+| 0879 | Wiesmann GT MF4 | 威兹曼跑车（火焰）
+| 0879 | Wiesmann GT MF4 | 威兹曼跑车（银）
+| 0879 | Wiesmann GT MF4 | 威兹曼跑车（蓝）
 | 0880 | SIKU Canyon | 悍马皮卡车（黄）
 | 0882 | Command Car | 奔驰面包车（消防）
 | 0890 | 气垫船*
@@ -180,6 +182,7 @@ Stephen coach(Thomas) Harold
 | 1358 | 蓝赛车~
 | 1360 | Taxi | 大众面包车（出租）
 | 1361 | Police | 甲壳虫轿车（警）
+| 1363 | Taxi | 奔驰轿车E500（出租）
 | 1365 | Police Car | 奥迪越野车A4（警）
 | 1365 | Police Car | 福特越野车Galaxy（警）
 | 1370 | Postal Service | 大众轿车Polo（出租）
@@ -201,6 +204,7 @@ Stephen coach(Thomas) Harold
 | 1434 | Dodge Viper | 道奇跑车Viper（黄）
 | 1434 | Dodge Viper | 道奇跑车Viper（白）*
 | 1436 | KTM X-BOW GT | KTM跑车
+| 1440 | Toyota Landcruiser | 丰田越野车~
 | 1444 | Gumpert Apollo | 阿波罗跑车
 | 1449 | Lamborghini Aventador LP700-4 | 兰博基尼LP700~
 | 1452 | 保时捷卡宴~
@@ -236,7 +240,7 @@ Stephen coach(Thomas) Harold
 | 1626 | Tanker with Trailer | 沃尔沃牵引车（蓝）+油罐半挂车
 | 1627 | Articulated Truck with Trailer | 沃尔沃牵引车（黑）+集装箱半挂车（黑）
 | 1627 | Articulated Truck with Trailer | 沃尔沃牵引车（绿）+集装箱半挂车（绿）
-| 1629 | PKW Car with Trailer Caravan | 大众跑车Bettle+小型房车全挂车
+| 1629 | Car with Trailer Caravan | 大众跑车Bettle+小型房车全挂车
 | 1636 | Unimog Fire Engine with Boot | 奔驰消防车Unimog（1068）+小艇全挂车（红）+小艇（橙）
 | 1646 | Local Train | 通勤列车
 | 1647 | Helicopter | 直升机（急救/1850）
@@ -289,6 +293,7 @@ Stephen coach(Thomas) Harold
 | 2544 | Car with Trailer | 前车拖后车~
 | 2549 | 保时捷消防车带气垫船~
 | 3505 | RAM 1500 with Compresser Trailer | 道奇皮卡车（救援）+（压缩机全挂车*
+| 3521 | ？
 | 3530 | Compactor | HAMM压路机
 | 3531 | Back Hoe Loader | TEREX反铲挖掘机*
 | 3533 | Lierherr R580 Four Wheel Loader | 利勃海尔铲车
