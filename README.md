@@ -108,7 +108,7 @@ Stephen coach(Thomas) Harold
 | 0875 | Siku Storm | 风暴跑车（黑）x2
 | 0875 | Siku Storm | 风暴跑车（红）
 | 0876 | Siku Lightning | 闪电跑车*
-| 0878 | Siku Hurricane | 飓风跑车？*
+| 0878 | Siku Hurricane | 飓风跑车
 | 0879 | Wiesmann GT MF4 | 威兹曼跑车（火焰）
 | 0879 | Wiesmann GT MF4 | 威兹曼跑车（银）
 | 0879 | Wiesmann GT MF4 | 威兹曼跑车（蓝）
@@ -174,8 +174,8 @@ Stephen coach(Thomas) Harold
 | 1337 | Porsche 911 Turbo | 保时捷911敞篷跑车~
 | 1338 | VW Transporter | 大众面包车T5（蓝）
 | 1341 | 拖拉机铲车？
-| 1342 | Jeep Wrangler | 吉普牧马人*
-| 1345 | 装甲车~
+| 1342 | Jeep Wrangler | 吉普越野车Wrangler（1658）
+| 1345 | Airfield Wator Cannon | 机场消防车
 | 1350 | Police Team Van | 大众面包车T5（警）
 | 1352 | Police Patrol Car | 宝马轿车545i（警/蓝）
 | 1352 | Police Patrol Car | 宝马轿车545i（警/白）
@@ -250,7 +250,7 @@ Stephen coach(Thomas) Harold
 | 1636 | Unimog Fire Engine with Boot | 奔驰消防车Unimog（1068）+小艇全挂车（红）+小艇（橙）
 | 1646 | Local Train | 通勤列车
 | 1647 | Helicopter | 直升机（急救/1850）
-| 1658 | Jeep with Boat | 吉普越野车Wrangler+小艇全挂车（黄）+小艇（红)
+| 1658 | Jeep with Boat | 吉普越野车Wrangler（1342）+小艇全挂车（黄）+小艇（红)
 | 1659 | Log Transporter | 沃尔沃牵引车（蓝）+木材平板半挂车+木材+木材
 | 1661 | 消防车套装*
 | 1671 | Niesmann Traveling Mobile Home | Niesmann房车
