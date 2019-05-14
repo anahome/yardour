@@ -83,7 +83,7 @@ Stephen coach(Thomas) Harold
 | 0846 | BMW Z3 | 宝马跑车Z3
 | 0847 | Massey Ferguson Tractor | MF拖拉机*
 | 0849 | Porsche Boxster | 保时捷跑车Boxster*
-| 0851 | Mercedes SLK230 | 奔驰跑车SLK230
+| 0851 | Mercedes SLK230 | 奔驰跑车SLK230~
 | 0852 | Vespa ET4 | Vespa摩托车*
 | 0853 | OAMTC Helicopter | 直升机（救援）
 | 0856 | Helicopter | 直升机（急救/黄）
@@ -104,7 +104,7 @@ Stephen coach(Thomas) Harold
 | 0870 | Tank | 坦克*
 | 0872 | 武装直升机*
 | 0873 | 战斗机*
-| 0875 | Siku Storm | 风暴跑车
+| 0875 | Siku Storm | 风暴跑车~
 | 0876 | Siku Lightning | 闪电跑车*
 | 0878 | Siku Hurricane | 风暴跑车？*
 | 0879 | Wiesmann GT MF4 | 威兹曼跑车（火焰）？
@@ -112,15 +112,15 @@ Stephen coach(Thomas) Harold
 | 0882 | Command Car | 奔驰面包车（消防）
 | 0890 | 气垫船*
 | 0894 | 路标*
-| 1001 | Porsche Carrera GT | 保时捷跑车GT
-| 1002 | Mercedes SLK | 奔驰SLK跑车
+| 1001 | Porsche Carrera GT | 保时捷跑车GT~
+| 1002 | Mercedes SLK | 奔驰SLK跑车~
 | 1004 | Mercedes McLaren SLR | 奔驰SLR跑车* 宝马警车？
 | 1006 | Porsche 911 | 保时捷911跑车（银）？
-| 1007 | BMW 645i Cabrio | 宝马敞篷跑车
+| 1007 | BMW 645i Cabrio | 宝马敞篷跑车~
 | 1008 | 克拉斯#697ATZ拖拉机?
 | 1009 | John Deere 7530 | JD拖拉机*
 | 1011 | Tramway | 有轨电车
-| 1013 | Local Train | 通勤列车（红）
+| 1013 | Local Train | 通勤列车（红）x2
 | 1013 | Local Train | 通勤列车（蓝）
 | 1015 | Fire Engine | 奔驰云梯消防车
 | 1021 | City Bus | 单节巴士
@@ -128,21 +128,21 @@ Stephen coach(Thomas) Harold
 | 1034 | Water Cannon | 奔驰水枪消防车
 | 1037 | 雪地清理机*
 | 1039 | 芬特拖拉机带推土臂？
-| 1042 | Smart Fortwo Cabrio Convertible | SMART敞篷车
+| 1042 | Smart Fortwo Cabrio Convertible | SMART轿车（敞篷/橙）x2
 | 1043 | 道依茨法尔拖拉机带推土臂？
-| 1045 | BMW 545i | 宝马轿车
+| 1045 | BMW 545i | 宝马轿车~
 | 1047 | 摩托车*
 | 1068 | Fire Engine | 消防车(1636)？
 | 1075 | SCANIA自卸车*
 | 1082 | 消防面包车？
 | 1085 | Post Van | 奔驰面包车（快递）
 | 1099 | 水上飞机*
-| 1302 | Smart Police | SMART警车
-| 1303 | Fire Fighter | SMART消防车
-| 1305 | Bugatti EB 16.4 Veyron | 布加迪威龙
-| 1307 | VW Passat Variant | 大众越野车（？）
+| 1302 | Smart Police | SMART轿车（警）
+| 1303 | Fire Fighter | SMART轿车（消防）
+| 1305 | Bugatti EB 16.4 Veyron | 布加迪跑车威龙
+| 1307 | VW Passat Variant | 大众越野车（蓝）
 | 1309 | 铲雪车*
-| 1311 | Forklift Truck | 林德叉车
+| 1311 | Forklift Truck | 林德叉车~
 | 1312 | 割草机*
 | 1314 | Fire Fighter Motor Cycle | 消防摩托车*
 | 1315 | Mini Copper | MINI轿车*
@@ -150,29 +150,29 @@ Stephen coach(Thomas) Harold
 | 1318 | 兰博基尼敞篷跑车*
 | 1319 | US School Bus | 美式校车
 | 1321 | Double-decker Bus | 双层巴士
-| 1322 | Road Maintenance Lorry | SCANIA路政工程车
+| 1322 | Road Maintenance Lorry | SCANIA路政工程车~
 | 1325 | Police Motorbike | 宝马警用摩托车*
-| 1326 | Hydraulic Crane | 液压吊车
-| 1330 | Police Mini | MINI警车
+| 1326 | Hydraulic Crane | 吊车
+| 1330 | Police Mini | MINI轿车（警）
 | 1331 | Milk Collecting Truck | SCANIA奶罐车*
 | 1334 | US Police | 悍马皮卡车（警/蓝）
 | 1334 | US Police | 悍马皮卡车（警/白）
 | 1334 | US Police | 悍马皮卡车（警/黑/县）
 | 1334 | US Police | 悍马皮卡车（警/黑/州）
 | 1335 | 拖拉机铲车？
-| 1337 | Porsche 911 Turbo | 保时捷911敞篷跑车
+| 1337 | Porsche 911 Turbo | 保时捷911敞篷跑车~
 | 1338 | VW Transporter | 大众面包车（蓝）
 | 1341 | 拖拉机铲车？
 | 1342 | Jeep Wrangler | 吉普牧马人*
-| 1345 | 装甲车
+| 1345 | 装甲车~
 | 1350 | Police Team Van | 大众面包车（警）
-| 1352 | 宝马警车
+| 1352 | 宝马警车~
 | 1353 | Bugatti Veyron Grand Sport | 布加迪威龙敞篷*
 | 1355 | 拖拉机铲车？
-| 1357 | Racing Car | 红赛车
-| 1358 | 蓝赛车
+| 1357 | Racing Car | 红赛车~
+| 1358 | 蓝赛车~
 | 1360 | Taxi | 大众面包车（出租）
-| 1361 | Police | 甲壳虫警车
+| 1361 | Police | 甲壳虫轿车（警）
 | 1365 | Police Car | 奥迪A4警车
 | 1365 | Police Car | 福特银河警车
 | 1370 | Postal Service | 大众出租车
