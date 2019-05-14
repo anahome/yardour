@@ -133,8 +133,8 @@ Stephen coach(Thomas) Harold
 | 1043 | 道依茨法尔拖拉机带推土臂？
 | 1045 | BMW 545i | 宝马轿车~
 | 1047 | 摩托车*
-| 1062 | Porsche Cayenne Turbo | 保时捷跑车Cayenne（消防）x2
-| 1062 | Porsche Cayenne Turbo | 保时捷跑车Cayenne（灰）x2
+| 1062 | Porsche Cayenne Turbo | 保时捷越野车Cayenne（消防）x2
+| 1062 | Porsche Cayenne Turbo | 保时捷越野车Cayenne（灰）x2
 | 1065 | Smart Roadster | SMART跑车
 | 1068 | Fire Engine | 奔驰消防车Unimog（1636）
 | 1075 | SCANIA自卸车*
@@ -218,7 +218,7 @@ Stephen coach(Thomas) Harold
 | 1477 | 装载车*
 | 1486 | 翻斗车*
 | 1490 | 出租车*
-| 1515 | Tractor with xxx Tanker | MF拖拉机（0847）+水箱
+| 1515 | Tractor with xxx Tanker | MF拖拉机（0847）+水箱自挂车
 | 1516 | Tipper Truck and Trailer | ~
 | 1518 | Skip Lorry with Trailer | 卡车+挂车~
 | 1528 | 保时捷911警车*
@@ -236,7 +236,7 @@ Stephen coach(Thomas) Harold
 | 1626 | Tanker with Trailer | 沃尔沃牵引车（蓝）+油罐半挂车
 | 1627 | Articulated Truck with Trailer | 沃尔沃牵引车（黑）+集装箱半挂车（黑）
 | 1627 | Articulated Truck with Trailer | 沃尔沃牵引车（绿）+集装箱半挂车（绿）
-| 1629 | PKW Car with Trailer Caravan | 大众跑车Bettle+房车全挂车
+| 1629 | PKW Car with Trailer Caravan | 大众跑车Bettle+小型房车全挂车
 | 1636 | Unimog Fire Engine with Boot | 奔驰消防车Unimog（1068）+小艇全挂车（红）+小艇（橙）
 | 1646 | Local Train | 通勤列车
 | 1647 | Helicopter | 直升机（急救/1850）
@@ -256,7 +256,7 @@ Stephen coach(Thomas) Harold
 | 1809 | Truck with Feedstuff Silo | 奔驰油罐车+油罐全挂车
 | 1810 | Construction Set | 利勃海尔铲车（1873）+利勃海尔挖掘机（1874）+沃尔沃翻斗车（1877）
 | 1837 | Low Loader with John Deere Tractors | 美式牵引车（绿）+中型平板半挂车+JD拖拉机+JD拖拉机
-| 1844 | Massey Ferguson Tractor with Trailer | MF拖拉机（8480）+自卸全挂车
+| 1844 | Massey Ferguson Tractor with Trailer | MF拖拉机8480+自卸全挂车
 | 1846 | Claas with Forage Wagon | Claas拖拉机+饲料全挂车~
 | 1849 | Heavy Haulage Transporter with Yacht | 曼恩牵引车+重型平板半挂车+游艇
 | 1850 | Rescue Service Set | 奔驰客货车（急救）+直升机（急救/1647）
@@ -285,6 +285,7 @@ Stephen coach(Thomas) Harold
 | 2314 | Quad with Jet Ski | 四轮摩托车+摩托艇？
 | 2350 | Mercedes-Benz G65 AMG | 奔驰越野车（黄）*
 | 2527 | 救援直升机*
+| 2542 | Car with Caravan | 保时捷越野车Cayenne（灰）+大型房车全挂车
 | 2544 | Car with Trailer | 前车拖后车~
 | 2549 | 保时捷消防车带气垫船~
 | 3505 | RAM 1500 with Compresser Trailer | 道奇皮卡车（救援）+（压缩机全挂车*
