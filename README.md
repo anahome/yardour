@@ -81,7 +81,7 @@ Stephen coach(Thomas) Harold
 | 0824 | VW Delivery Van | 大众面包车T4（警）
 | 0828 | Recycling Transporter | 斯堪尼亚环卫车*
 | 0846 | BMW Z3 | 宝马跑车Z3
-| 0847 | Massey Ferguson Tractor | MF拖拉机*
+| 0847 | Massey Ferguson Tractor | MF拖拉机
 | 0849 | Porsche Boxster | 保时捷跑车Boxster*
 | 0851 | Mercedes SLK230 | 奔驰跑车SLK230~
 | 0852 | Vespa ET4 | Vespa摩托车*
@@ -95,27 +95,28 @@ Stephen coach(Thomas) Harold
 | 0860 | Snowmobile | 雪地摩托车（黄）
 | 0861 | Lanz Bulldog | LANZ拖拉机*
 | 0863 | 银赛车？
-| 0863 | Siku ? | 竞技塞帕跑车*
+| 0863 | Siku Racer | 竞技塞帕跑车？
 | 0865 | Siku Sport 3 | ?
 | 0866 | Siku Sniper | 狙击手跑车*
 | 0867 | Siku Ranger | 福特皮卡车
-| 0868 | 福特皮卡*
+| 0868 | Siku County | 福特皮卡车？骑警？
 | 0869 | Siku Pick Up 3 | 悍马皮卡车（军）
 | 0870 | Tank | 坦克*
 | 0872 | 武装直升机*
 | 0873 | 战斗机*
-| 0875 | Siku Storm | 风暴跑车~
+| 0875 | Siku Storm | 风暴跑车x2
 | 0876 | Siku Lightning | 闪电跑车*
-| 0878 | Siku Hurricane | 风暴跑车？*
+| 0878 | Siku Hurricane | 飓风跑车？*
 | 0879 | Wiesmann GT MF4 | 威兹曼跑车（火焰）？
 | 0880 | SIKU Canyon | 悍马皮卡车（黄）
 | 0882 | Command Car | 奔驰面包车（消防）
 | 0890 | 气垫船*
 | 0894 | 路标*
-| 1001 | Porsche Carrera GT | 保时捷跑车GT~
+| 1001 | Porsche Carrera GT | 保时捷跑车GT（红）x2~
+| 1001 | Porsche Carrera GT | 保时捷跑车GT（银）
 | 1002 | Mercedes SLK | 奔驰SLK跑车~
 | 1004 | Mercedes McLaren SLR | 奔驰SLR跑车* 宝马警车？
-| 1006 | Porsche 911 | 保时捷911跑车（银）？
+| 1006 | Porsche 911 | 保时捷跑车911（银）
 | 1007 | BMW 645i Cabrio | 宝马敞篷跑车~
 | 1008 | 克拉斯#697ATZ拖拉机?
 | 1009 | John Deere 7530 | JD拖拉机*
@@ -132,7 +133,10 @@ Stephen coach(Thomas) Harold
 | 1043 | 道依茨法尔拖拉机带推土臂？
 | 1045 | BMW 545i | 宝马轿车~
 | 1047 | 摩托车*
-| 1068 | Fire Engine | 消防车(1636)？
+| 1062 | Porsche Cayenne Turbo | 保时捷跑车Cayenne（消防）x2
+| 1062 | Porsche Cayenne Turbo | 保时捷跑车Cayenne（灰）x2
+| 1065 | Smart Roadster | SMART跑车
+| 1068 | Fire Engine | 奔驰消防车Unimog（1636）
 | 1075 | SCANIA自卸车*
 | 1082 | 消防面包车？
 | 1085 | Post Van | 奔驰面包车（快递）
@@ -153,7 +157,7 @@ Stephen coach(Thomas) Harold
 | 1322 | Road Maintenance Lorry | SCANIA路政工程车~
 | 1325 | Police Motorbike | 宝马警用摩托车*
 | 1326 | Hydraulic Crane | 吊车
-| 1330 | Police Mini | MINI轿车（警）
+| 1330 | Police Mini | MINI轿车（警）？
 | 1331 | Milk Collecting Truck | SCANIA奶罐车*
 | 1334 | US Police | 悍马皮卡车（警/蓝）
 | 1334 | US Police | 悍马皮卡车（警/白）
@@ -166,37 +170,44 @@ Stephen coach(Thomas) Harold
 | 1342 | Jeep Wrangler | 吉普牧马人*
 | 1345 | 装甲车~
 | 1350 | Police Team Van | 大众面包车（警）
-| 1352 | 宝马警车~
+| 1352 | Police Patrol Car | 宝马轿车545i（警/蓝）
+| 1352 | Police Patrol Car | 宝马轿车545i（警/白）
+| 1352 | Police Patrol Car | 宝马轿车545i（警/橙）
 | 1353 | Bugatti Veyron Grand Sport | 布加迪威龙敞篷*
 | 1355 | 拖拉机铲车？
-| 1357 | Racing Car | 红赛车~
+| 1357 | Racing Car | 赛车（红/7）
+| 1357 | Racing Car | 赛车（银）
 | 1358 | 蓝赛车~
 | 1360 | Taxi | 大众面包车（出租）
 | 1361 | Police | 甲壳虫轿车（警）
-| 1365 | Police Car | 奥迪A4警车
-| 1365 | Police Car | 福特银河警车
-| 1370 | Postal Service | 大众出租车
-| 1374 | 橙赛车
+| 1365 | Police Car | 奥迪越野车A4（警）
+| 1365 | Police Car | 福特越野车Galaxy（警）
+| 1370 | Postal Service | 大众轿车Polo（出租）
+| 1374 | Racing Car | 赛车（白/5）
+| 1374 | Racing Car | 赛车（银/9）
 | 1377 | BMW R 1100 RS Motorbike | 宝马摩托车
 | 1379 | 拖拉机带装载机？
 | 1380 | 林木拖拉机*
 | 1387 | 油罐车*
-| 1404 | US-Patrol Car | 道奇警车
-| 1416 | Motorway Patrol Car | 保时捷卡曼跑车（警）
+| 1404 | US-Patrol Car | 道奇越野车（警）
+| 1416 | Motorway Patrol Car | 保时捷跑车卡曼（警）~
 | 1418 | Claas Forage Harvester | 收割机？
-| 1422 | Road Patrol Car | 奥迪A4救援车
+| 1422 | Road Patrol Car | 奥迪越野车A4（警）
+| 1422 | Road Patrol Car | 奥迪越野车A4（救援）
 | 1424 | 轻型卡车*
-| 1430 | Audi R8 | 奥迪跑车R8
-| 1433 | Porsche Cayman | 保时捷卡曼
-| 1434 | Dodge Viper | 道奇蝰蛇
+| 1430 | Audi R8 | 奥迪跑车R8~
+| 1432 | BMW X5 | 宝马越野车X5
+| 1433 | Porsche Cayman | 保时捷卡曼~
+| 1434 | Dodge Viper | 道奇跑车Viper（黄）
+| 1434 | Dodge Viper | 道奇跑车Viper（白）*
 | 1436 | KTM X-BOW GT | KTM跑车
 | 1444 | Gumpert Apollo | 阿波罗跑车
-| 1449 | Lamborghini Aventador LP700-4 | 兰博基尼LP700
-| 1452 | 保时捷卡宴
-| 1454 | 宝马MINI
-| 1456 | Cup-Race Porsche 911 | 保时捷911杯赛车
-| 1457 | Porsche 911 Driving School | 保时捷911驾校车
-| 1460 | Fire Command Car | 奥迪消防指挥车
+| 1449 | Lamborghini Aventador LP700-4 | 兰博基尼LP700~
+| 1452 | 保时捷卡宴~
+| 1454 | 宝马MINI~
+| 1456 | Cup-Race Porsche 911 | 保时捷跑车911（杯赛）~
+| 1457 | Porsche 911 Driving School | 保时捷跑车911（驾校）
+| 1460 | Fire Command Car | 奥迪越野车Q7（消防）
 | 1461 | Emergency Car | 大众越野车（救援）
 | 1462 | Children Emergency Doctor | 大众面包车（救援）
 | 1463 | Command Car THW | 大众越野车（消防）
@@ -206,11 +217,11 @@ Stephen coach(Thomas) Harold
 | 1470 | Mercedes 300SL | 奔驰跑车300SL
 | 1477 | 装载车*
 | 1486 | 翻斗车*
-| 1490 | 出租车
-| 1499 | smart | SMART跑车
-| 1516 | Tipper Truck and Trailer
-| 1518 | Skip Lorry with Trailer | 卡车+挂车
-| 1528 | 保时捷911警车
+| 1490 | 出租车*
+| 1515 | Tractor with xxx Tanker | MF拖拉机（0847）+水箱
+| 1516 | Tipper Truck and Trailer | ~
+| 1518 | Skip Lorry with Trailer | 卡车+挂车~
+| 1528 | 保时捷911警车*
 | 1610 | Low Loader with Helicopter | SCANIA牵引车（银）+中型平板半挂车+直升机（警/0807）
 | 1611 | Low Loader with Excavator | SCANIA牵引车（黄）+中型平板半挂车+挖掘机（0801）
 | 1613 | Low Loader with Boot | SCANIA牵引车（红）+中型平板半挂车+快艇
@@ -223,16 +234,18 @@ Stephen coach(Thomas) Harold
 | 1624 | Coach Bus | 曼恩长途巴士（火焰）
 | 1625 | 拖拉机+收纳斗车~
 | 1626 | Tanker with Trailer | 沃尔沃牵引车（蓝）+油罐半挂车
-| 1627 | Articulated Truck with Trailer | 沃尔沃牵引车（黑）+集装箱半挂车
-| 1627 | Articulated Truck with Trailer | 沃尔沃牵引车（绿）+集装箱半挂车
-| 1636 | Unimog Fire Engine with Boot | 奔驰消防车+小艇全挂车+小艇~
+| 1627 | Articulated Truck with Trailer | 沃尔沃牵引车（黑）+集装箱半挂车（黑）
+| 1627 | Articulated Truck with Trailer | 沃尔沃牵引车（绿）+集装箱半挂车（绿）
+| 1629 | PKW Car with Trailer Caravan | 大众跑车Bettle+房车全挂车
+| 1636 | Unimog Fire Engine with Boot | 奔驰消防车Unimog（1068）+小艇全挂车（红）+小艇（橙）
 | 1646 | Local Train | 通勤列车
 | 1647 | Helicopter | 直升机（急救/1850）
+| 1658 | Jeep with Boat | 吉普越野车Wrangler+小艇全挂车（黄）+小艇（红)
 | 1659 | Log Transporter | 沃尔沃牵引车（蓝）+木材平板半挂车+木材+木材
 | 1661 | 消防车套装*
 | 1671 | Niesmann Traveling Mobile Home | Niesmann房车
 | 1673 | 拖拉机+撒肥车~
-| 1683 | Volvo Roll-off Tipper with Crane | 沃尔沃吊装自卸车～
+| 1683 | Volvo Roll-off Tipper with Crane | 沃尔沃吊装自卸车
 | 1685 | 自卸车+自卸车*
 | 1750 | Car Ferry | 汽车摆渡船
 | 1791 | Double Deck Train | 双层列车*
@@ -243,6 +256,7 @@ Stephen coach(Thomas) Harold
 | 1809 | Truck with Feedstuff Silo | 奔驰油罐车+油罐全挂车
 | 1810 | Construction Set | 利勃海尔铲车（1873）+利勃海尔挖掘机（1874）+沃尔沃翻斗车（1877）
 | 1837 | Low Loader with John Deere Tractors | 美式牵引车（绿）+中型平板半挂车+JD拖拉机+JD拖拉机
+| 1844 | Massey Ferguson Tractor with Trailer | MF拖拉机（8480）+自卸全挂车
 | 1846 | Claas with Forage Wagon | Claas拖拉机+饲料全挂车~
 | 1849 | Heavy Haulage Transporter with Yacht | 曼恩牵引车+重型平板半挂车+游艇
 | 1850 | Rescue Service Set | 奔驰客货车（急救）+直升机（急救/1647）
