@@ -130,7 +130,8 @@ Stephen coach(Thomas) Harold
 | 1013 | Local Train | 通勤列车（红）x2
 | 1013 | Local Train | 通勤列车（蓝）
 | 1015 | Fire Engine | 奔驰云梯消防车
-| 1021 | City Bus | 单节巴士
+| 1021 | City Bus | 单节巴士（红）
+| 1021 | City Bus | 单节巴士（蓝）
 | 1022 | Camping Car | 依维柯房车
 | 1034 | Water Cannon | 奔驰水枪消防车
 | 1037 | 雪地清理机*
@@ -310,4 +311,5 @@ Stephen coach(Thomas) Harold
 | 3921 | Truck with Container | 奔驰牵引车+双集装箱平板半挂车+集装箱+集装箱
 | 3934 | Car Transporter | 奔驰牵引车+双层车辆运输半挂车+（威兹曼跑车？+风暴跑车？）
 | 4114 | Magirus Fire Engine | 马吉鲁斯消防车
-| 6281 | Gift Set | 礼品装（0879/0863/0878/0875/0866）
+| 6281 | Gift Set | 套装（0879/0863/0878/0875/0866）
+| 6303 | Gift Set | 套装（1013/1021/1319/路标？）
