@@ -312,4 +312,6 @@ Stephen coach(Thomas) Harold
 | 3934 | Car Transporter | 奔驰牵引车+双层车辆运输半挂车+（威兹曼跑车？+风暴跑车？）
 | 4114 | Magirus Fire Engine | 马吉鲁斯消防车
 | 6281 | Gift Set | 套装（0879/0863/0878/0875/0866）
+| 6301 | Gift Set | 套装（1434/1305/1001）
+| 6302 | Gift Set | 套装（？/？/？）
 | 6303 | Gift Set | 套装（1013/1021/1319/0857）
