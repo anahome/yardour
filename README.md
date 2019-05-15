@@ -153,7 +153,7 @@ Stephen coach(Thomas) Harold
 | 1305 | Bugatti EB 16.4 Veyron | 布加迪跑车威龙
 | 1307 | VW Passat Variant | 大众越野车（蓝）
 | 1309 | 铲雪车*
-| 1311 | Forklift Truck | 林德叉车~
+| 1311 | Forklift Truck | 林德叉车
 | 1312 | 割草机*
 | 1314 | Fire Fighter Motor Cycle | 消防摩托车*
 | 1315 | Mini Copper | MINI轿车*
