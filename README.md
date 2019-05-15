@@ -83,12 +83,12 @@ Stephen coach(Thomas) Harold
 | 0846 | BMW Z3 | 宝马跑车Z3
 | 0847 | Massey Ferguson Tractor | MF拖拉机
 | 0849 | Porsche Boxster | 保时捷跑车Boxster*
-| 0851 | Mercedes SLK230 | 奔驰跑车SLK230~
+| 0851 | Mercedes SLK230 | 奔驰跑车SLK230
 | 0852 | Vespa ET4 | Vespa摩托车*
 | 0853 | OAMTC Helicopter | 直升机（救援）
 | 0856 | Helicopter | 直升机（急救/黄）
 | 0856 | Helicopter | 直升机（急救/红）
-| 0857 | Road Signs | 路标*
+| 0857 | Road Signs | 路标（6303）
 | 0858 | Fendt Favorit 926 Vario | FENDT拖拉机*
 | 0859 | DEUTZ-FAHR Agrotron | DF拖拉机*
 | 0860 | Snowmobile | 雪地摩托车（橙）
@@ -312,4 +312,4 @@ Stephen coach(Thomas) Harold
 | 3934 | Car Transporter | 奔驰牵引车+双层车辆运输半挂车+（威兹曼跑车？+风暴跑车？）
 | 4114 | Magirus Fire Engine | 马吉鲁斯消防车
 | 6281 | Gift Set | 套装（0879/0863/0878/0875/0866）
-| 6303 | Gift Set | 套装（1013/1021/1319/路标？）
+| 6303 | Gift Set | 套装（1013/1021/1319/0857）
