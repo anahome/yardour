@@ -228,8 +228,8 @@ Stephen coach(Thomas) Harold
 | 1477 | 装载车*
 | 1486 | 翻斗车*
 | 1490 | 出租车*
-| 1502 | Taxi | 奔驰轿车E350（出租）
-| 1511 | Recycling Lorry | 奔驰环卫车+环卫全挂车~
+| 1502 | Taxi | 奔驰轿车E350d（出租）
+| 1511 | Recycling Lorry | 奔驰环卫车+环卫全挂车
 | 1515 | Tractor with xxx Tanker | MF拖拉机（0847）+水箱自挂车
 | 1516 | Tipper Truck and Trailer | 奔驰自卸车+自卸全挂车
 | 1518 | Skip Lorry with Trailer | 奔驰翻斗车+翻斗全挂车
