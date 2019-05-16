@@ -75,7 +75,7 @@ Stephen coach(Thomas) Harold
 | 0805 | Ambulance | 奔驰面包车（急救）
 | 0807 | Helicopter | 直升机（警/1610）
 | 0809 | Ambulance | 奔驰面包车（救护）
-| 0811 | Refuse Truck | 斯堪尼亚垃圾车*
+| 0811 | Refuse Truck | 斯堪尼亚垃圾车
 | 0813 | Cement Mixer | 斯堪尼亚搅拌车*
 | 0817 | Space Shuttle | 航天飞机
 | 0824 | VW Delivery Van | 大众面包车T4（警）
@@ -103,7 +103,7 @@ Stephen coach(Thomas) Harold
 | 0869 | Siku Pick Up 3 | 悍马皮卡车（军）
 | 0870 | Tank | 坦克*
 | 0872 | 武装直升机*
-| 0873 | 战斗机*
+| 0873 | Jet Fighter | 喷气战斗机
 | 0874 | Siku Magma | 熔岩跑车
 | 0875 | Siku Storm | 风暴跑车（黑）x2
 | 0875 | Siku Storm | 风暴跑车（红）
@@ -116,7 +116,7 @@ Stephen coach(Thomas) Harold
 | 0882 | Command Car | 奔驰面包车（消防）
 | 0890 | 气垫船*
 | 0894 | 路标*
-| 1001 | Porsche Carrera GT | 保时捷跑车GT（红）x2~
+| 1001 | Porsche Carrera GT | 保时捷跑车GT（红）x2
 | 1001 | Porsche Carrera GT | 保时捷跑车GT（银/2544）
 | 1002 | Mercedes SLK | 奔驰SLK跑车~
 | 1004 | Mercedes McLaren SLR | 奔驰SLR跑车*
@@ -213,9 +213,10 @@ Stephen coach(Thomas) Harold
 | 1440 | Toyota Landcruiser | 丰田越野车~
 | 1444 | Gumpert Apollo | 阿波罗跑车
 | 1449 | Lamborghini Aventador LP700-4 | 兰博基尼LP700~
+| 1451 | Alfa Romeo 4C | 阿尔法跑车Romeo
 | 1452 | Porsche Macan Turbo | 保时捷越野车Macan
 | 1454 | 宝马MINI~
-| 1456 | Cup-Race Porsche 911 | 保时捷跑车911（杯赛）~
+| 1456 | Cup-Race Porsche 911 | 保时捷跑车911（杯赛）
 | 1457 | Porsche 911 Driving School | 保时捷跑车911（驾校）
 | 1460 | Fire Command Car | 奥迪越野车Q7（消防）
 | 1461 | Emergency Car | 大众越野车（救援）
@@ -259,7 +260,8 @@ Stephen coach(Thomas) Harold
 | 1673 | Tractor with xxx xxx | 拖拉机+撒肥全挂车~
 | 1683 | Volvo Roll-off Tipper with Crane | 沃尔沃吊装自卸车
 | 1685 | 自卸车+自卸车*
-| 1726 | Mein Schiff 1 | 迈希夫1号邮轮
+| 1720 | Aida Luna Cruiseliner | 阿依达邮轮明月号
+| 1726 | Mein Schiff 1 | 迈希夫邮轮1号
 | 1750 | Car Ferry | 汽车摆渡船
 | 1791 | Double Deck Train | 双层列车*
 | 1795 | Truck with Tank Container | 奔驰牵引车+集装箱平板半挂车+油罐集装箱
