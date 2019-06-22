@@ -2,28 +2,28 @@
 
 | Container Truck | Super Truck 1L  | Super Truck 1R  | Super Truck 2L  | Super Truck 2R  | Box L
 | --------------- | --------------- | --------------- | --------------- | --------------- | ---------------
-| Harold          | Thomas          | Ashima          | Thomas(light)   | Thomas(modern)  | Thomas
-| Skiff           | Edward          | Emily           | Flynn           | Gordon(modern)  | Percy
-| Kevin           | **              | **              | **              | **              | Luke
-| Butch           | Henry           | YongBao         | Ferdinand       | Spencer         | Diesel10
+| Harold          | Thomas          | Ashima          | Thomas(light)   | Thomas(modern)  | Thomas*
+| Skiff           | Edward          | Emily           | Flynn           | Gordon(modern)  | Percy*
+| Kevin           | **              | **              | **              | **              | Luke*
+| Butch           | Henry           | YongBao         | Ferdinand       | Spencer         | Diesel10*
 | Jack            | Gordon          | Alex            | Shane           | Cornor          | 
-| Max             | **              | **              | **              | **              | Thomas
-| Monty           | James           | Mike            | Lexi            | Caitlin         | Percy
-| Winston         | Percy           | Raul            | Rosie           | Hurricane       | coach(Caitlin)
-| Belle           | Toby            | Gator           | Theo            | Salty           | Marion
+| Max             | **              | **              | **              | **              | Thomas*
+| Monty           | James           | Mike            | Lexi            | Caitlin         | Percy*
+| Winston         | Percy           | Raul            | Rosie           | Hurricane       | coach(Caitlin)*
+| Belle           | Toby            | Gator           | Theo            | Salty           | Marion*
 | Bash            | Annie           | Bill            | Hiro            | Ivan            | 
 | Dash            | Clarabel        | Ben             | **              | Bert            | Stephen
-| Hector          | Charlie         | Timonthy        | Hiro(color)     | Frankie         | coach(Thomas)
-| Coach(Hector)   | Whiff           | Marion          | Victor          | Diesel          | Harold
+| Hector          | Charlie         | Timonthy        | Hiro(color)     | Frankie         | Coach(Thomas)
+| Coach(Hector)   | Whiff           | Marion          | Victor          | Diesel          | Harold*
 | Stanley         | Scruff coach    | Oliver          | Luke coach      | Diesel10        | mask(dinosaur)
 
 
 # Super Wings
 
-| Big Wing        | Uncle Carle     | 大鹏
+| Big Wing        | Uncle Carle     | 大鹏/卡尔叔叔
 | --------------- | --------------- | --------------- 
 | Jett            |                 | 乐迪
-|                 | Donnie          | 多多
+|                 | Donnie(+mini)   | 多多
 | Dizzy           |                 | 小爱
 | Jerome          |                 | 酷飞
 | Paul            |                 | 包警长
@@ -38,12 +38,12 @@
 
 | Rescue Bus      | School Bus 1L   | School Bus 1R   | School Bus 2L   | School Bus 2R   | Carry Air
 | --------------- | --------------- | --------------- | --------------- | --------------- | ---------------
-| Poli            | Poli*           | Cap             | Bruny           | Dump            | Spooky1
+| Poli            | Poli*           | Cap             | Bruny           | Dump            | Spooky
 | Amber           | Helly           | Musty           | Mark            | Mickey          | Spooky2
 | Roy             | Marine          | Posty           | Bucky           | Lifty           | Spooky2*
 |                 | Beny            | Mini            | Max             | Poke            | Torino
 |                 | Rody            | SchoolB         | Tracky          | Bruner          |
-|                 | Cleany1         | Camp1           | Terry1          | Spooky1*        |
+|                 | Cleany1         | Camp1           | Terry1          | Spooky*         |
 |                 | Cleany2         | Camp2           | Terry2          |                 |
 
 (transformer)Poli
