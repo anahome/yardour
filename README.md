@@ -4,10 +4,10 @@
 | --------------- | --------------- | --------------- | --------------- | --------------- | ---------------
 | Harold          | Thomas          | Ashima          | Thomas(light)   | Thomas(modern)  | Thomas*
 | Skiff           | Edward          | Emily           | Flynn           | Gordon(modern)  | Percy*
-| Kevin           | **              | **              | **              | **              | Luke*
+| Kevin           | --              | --              | --              | --              | Luke*
 | Butch           | Henry           | YongBao         | Ferdinand       | Spencer         | Diesel10*
 | Jack            | Gordon          | Alex            | Shane           | Cornor          | 
-| Max             | **              | **              | **              | **              | Thomas*
+| Max             | --              | --              | --              | --              | Thomas*
 | Monty           | James           | Mike            | Lexi            | Caitlin         | Percy*
 | Winston         | Percy           | Raul            | Rosie           | Hurricane       | coach(Caitlin)*
 | Belle           | Toby            | Gator           | Theo            | Salty           | Marion*
@@ -39,8 +39,8 @@
 | Rescue Bus      | School Bus 1L   | School Bus 1R   | School Bus 2L   | School Bus 2R   | Carry Air
 | --------------- | --------------- | --------------- | --------------- | --------------- | ---------------
 | Poli            | Poli*           | Cap             | Bruny           | Dump            | Spooky
-| Amber           | Helly           | Musty           | Mark            | Mickey          | Spooky2
-| Roy             | Marine          | Posty           | Bucky           | Lifty           | Spooky2*
+| Amber           | Helly           | Musty           | Mark            | Mickey          | trailer
+| Roy             | Marine          | Posty           | Bucky           | Lifty           | trailer*
 |                 | Beny            | Mini            | Max             | Poke            | Torino
 |                 | Rody            | SchoolB         | Tracky          | Bruner          |
 |                 | Cleany1         | Camp1           | Terry1          | Spooky*         |
@@ -55,8 +55,8 @@
 
 | Rescue Bus      |
 | --------------- |
-| Ryder
-| Chase
+| Ryder           |
+| Chase           |
 
 
 # Siku World
