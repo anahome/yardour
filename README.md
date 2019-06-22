@@ -1,41 +1,35 @@
 # Thomas & Friends
 
-| Container Truck | Super Truck 1L  | Super Truck 1R  | Super Truck 2L  | Super Truck 2R
-| --------------- | --------------- | --------------- | --------------- | ---------------
-| Harold          | Thomas          | Ashima          | Thomas(light)   | Thomas(modern)
-| Skiff           | Edward          | Emily           | Flynn           | Gordon(modern)
-| Kevin           | **              | **              | **              | **
-| Butch           | Henry           | YongBao         | Ferdinand       | Spencer
-| Jack            | Gordon          | Alex            | Shane           | Cornor
-| Max             | **              | **              | **              | **
-| Monty           | James           | Mike            | Lexi            | Caitlin
-| Winston         | Percy           | Raul            | Rosie           | Hurricane
-| Belle           | Toby            | Gator           | Theo            | Salty
-| Bash            | Annie           | Bill            | Hiro            | Ivan
-| Dash            | Clarabel        | Ben             | **              | Bert
-| Hector          | Charlie         | Timonthy        | Hiro(color)     | Frankie
-| Coach(Hector)   | Whiff           | Marion          | Victor          | Diesel
-| Stanley         | Scruff coach    | Oliver          | Luke coach      | Diesel10
-
-Thomas Percy Luke Diesel10
-
-Thomas Percy coach(Caitlin) Marion
-
-Stephen coach(Thomas) Harold
+| Container Truck | Super Truck 1L  | Super Truck 1R  | Super Truck 2L  | Super Truck 2R  | Box L
+| --------------- | --------------- | --------------- | --------------- | --------------- | ---------------
+| Harold          | Thomas          | Ashima          | Thomas(light)   | Thomas(modern)  | Thomas
+| Skiff           | Edward          | Emily           | Flynn           | Gordon(modern)  | Percy
+| Kevin           | **              | **              | **              | **              | Luke
+| Butch           | Henry           | YongBao         | Ferdinand       | Spencer         | Diesel10
+| Jack            | Gordon          | Alex            | Shane           | Cornor          | 
+| Max             | **              | **              | **              | **              | Thomas
+| Monty           | James           | Mike            | Lexi            | Caitlin         | Percy
+| Winston         | Percy           | Raul            | Rosie           | Hurricane       | coach(Caitlin)
+| Belle           | Toby            | Gator           | Theo            | Salty           | Marion
+| Bash            | Annie           | Bill            | Hiro            | Ivan            | 
+| Dash            | Clarabel        | Ben             | **              | Bert            | Stephen
+| Hector          | Charlie         | Timonthy        | Hiro(color)     | Frankie         | coach(Thomas)
+| Coach(Hector)   | Whiff           | Marion          | Victor          | Diesel          | Harold
+| Stanley         | Scruff coach    | Oliver          | Luke coach      | Diesel10        | mask(dinosaur)
 
 
 # Super Wings
 
-| Big Wing        | 大鹏
-| --------------- | --------------- 
-| Jett            | 乐迪
-| Donnie          | 多多
-| Dizzy           | 小爱
-| Jerome          | 酷飞
-| Paul            | 包警长
-| Grand Albert    | 胡须爷爷
-| Mira            | 小青
-| Bello           | 卡文
+| Big Wing        | Uncle Carle     | 大鹏
+| --------------- | --------------- | --------------- 
+| Jett            |                 | 乐迪
+|                 | Donnie          | 多多
+| Dizzy           |                 | 小爱
+| Jerome          |                 | 酷飞
+| Paul            |                 | 包警长
+| Grand Albert    |                 | 胡须爷爷
+| Mira            |                 | 小青
+| Bello           |                 | 卡文
 
 (transformer)Jett
 
