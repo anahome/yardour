@@ -20,18 +20,16 @@
 
 # Super Wings
 
-| Big Wing        | Uncle Carle     | 大鹏/卡尔叔叔
-| --------------- | --------------- | --------------- 
-| Jett            |                 | 乐迪
-|                 | Donnie(+mini)   | 多多
-| Dizzy           |                 | 小爱
-| Jerome          |                 | 酷飞
-| Paul            |                 | 包警长
-| Grand Albert    |                 | 胡须爷爷
-| Mira            |                 | 小青
-| Bello           |                 | 卡文
-
-(transformer)Jett
+| Big Wing        | Uncle Carle     | Case S          | 大鹏/卡尔叔叔
+| --------------- | --------------- | --------------- | ---------------
+| Jett(+mini*)    |                 | Jett(tf)        | 乐迪
+| Jimbo/Sky       | Donnie(+mini)   | Sky(fw)         | 多多/金宝/安琪
+| Dizzy           |                 |                 | 小爱
+| Jerome          |                 | Poli(tf)        | 酷飞
+| Paul            |                 | Poli(fw)        | 包警长
+| Grand Albert    |                 | Amber(fw)       | 胡须爷爷
+| Mira            |                 | Roy(fw)         | 小青
+| Bello           |                 |                 | 卡文
 
 
 # Robocar Poli
@@ -45,10 +43,6 @@
 |                 | Rody            | SchoolB         | Tracky          | Bruner          |
 |                 | Cleany1         | Camp1           | Terry1          | Spooky*         |
 |                 | Cleany2         | Camp2           | Terry2          |                 |
-
-(transformer)Poli
-
-(freewheeler)Poli Amber Roy
 
 
 # Paw Patrol
