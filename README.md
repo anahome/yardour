@@ -53,7 +53,24 @@
 | Chase           |
 
 
-# Siku World
+# Siku Super
+
+| Super Truck 1L  | Super Truck 1R  | Super Truck 2L  | Super Truck 2R  | Super Truck 3L  | Super Truck 3R
+| --------------- | --------------- | --------------- | --------------- | --------------- | ---------------
+| smart fortwo    | Thomas          | Ashima          | Thomas(light)   | Thomas(modern)  | Thomas*
+| mini cooper     | Edward          | Emily           | Flynn           | Gordon(modern)  | Percy*
+| vw beetle       | --              | --              | --              | --              | Luke*
+| vw t4           | Henry           | YongBao         | Ferdinand       | Spencer         | Diesel10*
+| audi a4 avant   | Gordon          | Alex            | Shane           | Cornor          | 
+| vw t5           | --              | --              | --              | --              | Thomas*
+| porsche 911s    | James           | Mike            | Lexi            | Caitlin         | Percy*
+| bwm545i         | Percy           | Raul            | Rosie           | Hurricane       | coach(Caitlin)*
+| audi r8         | Toby            | Gator           | Theo            | Salty           | Marion*
+| benz sprinter   | Annie           | Bill            | Hiro            | Ivan            | 
+| porsche 911     | Clarabel        | Ben             | **              | Bert            | Stephen
+| ford galaxy     | Charlie         | Timonthy        | Hiro(color)     | Frankie         | Coach(Thomas)
+| scania          | Whiff           | Marion          | Victor          | Diesel          | Harold*
+| helicopter      | Scruff coach    | Oliver          | Luke coach      | Diesel10        | mask(dinosaur)
 
 | No.  | Name | Remarks
 | ---- | ---- | ----
