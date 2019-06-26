@@ -53,6 +53,19 @@
 | Chase           |
 
 
+# Mitu Jimu
+
+| Jimu            |
+| --------------- |
+| 积木机器人
+| 履带机甲
+| 矿山车
+| 工程吊车
+| 机械翼
+| 小马拉车
+| 机械钟摆
+
+
 # Siku Super
 
 | Super Truck 1L  | Super Truck 1R  | Super Truck 2L  | Super Truck 2R  | Super Truck 3L  | Super Truck 3R
