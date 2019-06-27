@@ -269,6 +269,7 @@
 | 1627 | Articulated Truck with Trailer | 沃尔沃牵引车（绿）+集装箱半挂车（绿）
 | 1629 | Car with Trailer Caravan | 大众跑车Bettle+小型房车全挂车
 | 1636 | Unimog Fire Engine with Boot | 奔驰消防车Unimog（1068）+小艇全挂车（红）+小艇（橙）
+| 1644 | Freight Wagon | 道奇皮卡车+沙滩全挂车+沙滩车
 | 1646 | Local Train | 通勤列车
 | 1647 | Helicopter | 直升机（急救/1850）
 | 1658 | Jeep with Boat | 吉普越野车Wrangler（1342）+小艇全挂车（黄）+小艇（红)
@@ -276,6 +277,7 @@
 | 1661 | 消防车套装*
 | 1671 | Niesmann Traveling Mobile Home | Niesmann房车
 | 1673 | Tractor with xxx xxx | 拖拉机+撒肥全挂车~
+| 1679 | Argo Avenger with trailer | 水陆两栖车+两栖全挂车
 | 1683 | Volvo Roll-off Tipper with Crane | 沃尔沃吊装自卸车
 | 1685 | 自卸车+自卸车*
 | 1720 | Aida Luna Cruiseliner | 阿依达邮轮明月号
@@ -288,6 +290,7 @@
 | 1806 | Road Train | 美式牵引车+集装箱半挂车+半挂衔接全挂车+集装箱半挂车
 | 1809 | Truck with Feedstuff Silo | 奔驰油罐车+油罐全挂车
 | 1810 | Construction Set | 利勃海尔铲车（1873）+利勃海尔挖掘机（1874）+沃尔沃翻斗车（1877）
+| 1819 | New Zealand Emergency Set - Series II | 奔驰面包车（救护/黄）+奥迪越野车A4（警）+宝马轿车545i（警）
 | 1837 | Low Loader with John Deere Tractors | 美式牵引车（绿）+中型平板半挂车+JD拖拉机+JD拖拉机
 | 1844 | Massey Ferguson Tractor with Trailer | MF拖拉机8480+自卸全挂车
 | 1846 | Claas with Forage Wagon | Claas拖拉机+饲料全挂车
