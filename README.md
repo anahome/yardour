@@ -215,6 +215,7 @@
 | 1379 | 拖拉机带装载机？
 | 1380 | 林木拖拉机*
 | 1387 | 油罐车*
+| 1403 | Off-Road Vehicle Police | 丰田越野车（警）
 | 1404 | US-Patrol Car | 道奇越野车（警）
 | 1416 | Motorway Patrol Car | 保时捷跑车卡曼（警）~
 | 1418 | Claas Forage Harvester | Claas饲料收割机
@@ -260,6 +261,7 @@
 | 1615 | Tram | 有轨电车
 | 1616 | Low Loader with Front Loader | SCANIA牵引车（黄）+中型平板半挂车+铲车（0802）
 | 1617 | Hinged Bus | 双节巴士
+| 1620 | Low Loader with Comb. Harvester | 奔驰牵引车（红）+中型平板半挂车+收割机
 | 1623 | Mega Lifter | 重型吊车(黄)
 | 1623 | Mega Lifter | 重型吊车(蓝)
 | 1624 | Coach Bus | 曼恩长途巴士（火焰）
@@ -281,6 +283,7 @@
 | 1683 | Volvo Roll-off Tipper with Crane | 沃尔沃吊装自卸车
 | 1685 | 自卸车+自卸车*
 | 1720 | Aida Luna Cruiseliner | 阿依达邮轮明月号
+| 1724 | Mein Schiff 3 | 迈希夫邮轮3号
 | 1726 | Mein Schiff 1 | 迈希夫邮轮1号
 | 1750 | Car Ferry | 汽车摆渡船
 | 1791 | Double Deck Train | 双层列车*
@@ -291,6 +294,7 @@
 | 1809 | Truck with Feedstuff Silo | 奔驰油罐车+油罐全挂车
 | 1810 | Construction Set | 利勃海尔铲车（1873）+利勃海尔挖掘机（1874）+沃尔沃翻斗车（1877）
 | 1819 | New Zealand Emergency Set - Series II | 奔驰面包车（救护/黄）+奥迪越野车A4（警）+宝马轿车545i（警）
+| 1832 | 曼恩牵引车+中型平板半挂车+铺路机
 | 1837 | Low Loader with John Deere Tractors | 美式牵引车（绿）+中型平板半挂车+JD拖拉机+JD拖拉机
 | 1844 | Massey Ferguson Tractor with Trailer | MF拖拉机8480+自卸全挂车
 | 1846 | Claas with Forage Wagon | Claas拖拉机+饲料全挂车
