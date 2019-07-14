@@ -22,7 +22,7 @@
 
 | Big Wing        | Uncle Carle     | Case S          | 大鹏/卡尔叔叔
 | --------------- | --------------- | --------------- | ---------------
-| Jett(+mini*)    |                 | Jett(tf)        | 乐迪
+| Jett(+mini)     |                 | Jett(tf)        | 乐迪
 | Jimbo/Sky       | Donnie(+mini)   | Sky(fw)         | 多多/金宝/安琪
 | Dizzy           |                 |                 | 小爱
 | Jerome          |                 | Poli(tf)        | 酷飞
