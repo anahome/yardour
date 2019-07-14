@@ -29,16 +29,16 @@
 | Paul            |                 | Poli(fw)        | 包警长
 | Grand Albert    |                 | Amber(fw)       | 胡须爷爷
 | Mira            |                 | Roy(fw)         | 小青
-| Bello           |                 |                 | 卡文
+| Bello           |                 | trailer 1&2     | 卡文
 
 
 # Robocar Poli
 
-| Rescue Bus      | School Bus 1L   | School Bus 1R   | School Bus 2L   | School Bus 2R   | Carry Air
+| Rescue Bus      | School Bus 1L   | School Bus 1R   | School Bus 2L   | School Bus 2R   | Carry Air S&L
 | --------------- | --------------- | --------------- | --------------- | --------------- | ---------------
 | Poli            | Poli*           | Cap             | Bruny           | Dump            | Spooky
-| Amber           | Helly           | Musty           | Mark            | Mickey          | trailer
-| Roy             | Marine          | Posty           | Bucky           | Lifty           | trailer*
+| Amber           | Helly           | Musty           | Mark            | Mickey          | 
+| Roy             | Marine          | Posty           | Bucky           | Lifty           | 
 |                 | Beny            | Mini            | Max             | Poke            | Torino
 |                 | Rody            | SchoolB         | Tracky          | Bruner          |
 |                 | Cleany1         | Camp1           | Terry1          | Spooky*         |
