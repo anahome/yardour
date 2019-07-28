@@ -24,12 +24,12 @@
 | --------------- | --------------- | --------------- | ---------------
 | Jett(+mini)     |                 | Jett(tf)        | 乐迪
 | Jimbo/Sky       | Donnie(+mini)   | Sky(fw)         | 多多/金宝/安琪
-| Dizzy           |                 |                 | 小爱
-| Jerome          |                 | Poli(tf)        | 酷飞
+|                 | Grand Albert    | Grand Albert*   | 胡须爷爷
+| Bello           |                 | Poli(tf)        | 卡文
 | Paul            |                 | Poli(fw)        | 包警长
-| Grand Albert    |                 | Amber(fw)       | 胡须爷爷
-| Mira            |                 | Roy(fw)         | 小青
-| Bello           |                 | trailer 1&2     | 卡文
+| Dizzy           |                 | Amber(fw)       | 小爱
+| Jerome          |                 | Roy(fw)         | 酷飞
+| Mira            |                 | trailer 1&2     | 小青
 
 
 # Robocar Poli
