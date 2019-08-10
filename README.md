@@ -73,20 +73,20 @@
 
 | Super Truck 1L  | Super Truck 1R  | Super Truck 2L  | Super Truck 2R  | Super Truck 3L  | Super Truck 3R
 | --------------- | --------------- | --------------- | --------------- | --------------- | ---------------
-| smart fortwo    | Thomas          | Ashima          | Thomas(light)   | Thomas(modern)  | Thomas*
-| mini cooper     | Edward          | Emily           | Flynn           | Gordon(modern)  | Percy*
-| vw beetle       | --              | --              | --              | --              | Luke*
-| vw t4           | Henry           | YongBao         | Ferdinand       | Spencer         | Diesel10*
-| audi a4 avant   | Gordon          | Alex            | Shane           | Cornor          | 
-| vw t5           | --              | --              | --              | --              | Thomas*
-| porsche 911s    | James           | Mike            | Lexi            | Caitlin         | Percy*
-| bwm 545i        | Percy           | Raul            | Rosie           | Hurricane       | coach(Caitlin)*
-| audi r8         | Toby            | Gator           | Theo            | Salty           | Marion*
-| benz sprinter   | Annie           | Bill            | Hiro            | Ivan            | 
-| porsche 911     | Clarabel        | Ben             | **              | Bert            | Stephen
-| ford galaxy     | Charlie         | Timonthy        | Hiro(color)     | Frankie         | Coach(Thomas)
-| scania          | Whiff           | Marion          | Victor          | Diesel          | Harold*
-| helicopter      | Scruff coach    | Oliver          | Luke coach      | Diesel10        | mask(dinosaur)
+| smart fortwo    | porsche 911     | Ashima          | Thomas(light)   | Thomas(modern)  | Thomas*
+| mini cooper     | ford galaxy     | Emily           | Flynn           | Gordon(modern)  | Percy*
+| vw beetle       | lamborghini     | --              | --              | --              | Luke*
+| porsche 911s    | porsche pana 4s | YongBao         | Ferdinand       | Spencer         | Diesel10*
+| audi r8         | audi a4 avant 3 | Alex            | Shane           | Cornor          | 
+| toyota rav4     | dodge charger   | --              | --              | --              | Thomas*
+| audi a4 avant   | dodge charger   | Mike            | Lexi            | Caitlin         | Percy*
+| bwm 545i        | bwm 545i        | Raul            | Rosie           | Hurricane       | coach(Caitlin)*
+| benz sprinter   | bwm 545i        | Gator           | Theo            | Salty           | Marion*
+| vw t5           | desert-lion     | Bill            | Hiro            | Ivan            | 
+| vw t4           | desert-lion     | Ben             | **              | Bert            | Stephen
+| audi a4 avant*  | shuttle         | Timonthy        | Hiro(color)     | Frankie         | Coach(Thomas)
+| scania          | scania          | Marion          | Victor          | Diesel          | Harold*
+| helicopter      | rocket          | Oliver          | Luke coach      | Diesel10        | mask(dinosaur)
 
 | No.  | Name | Remarks
 | ---- | ---- | ----
