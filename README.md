@@ -92,6 +92,7 @@
 | ---- | ---- | ----
 | 0801 | Excavator | 挖机（1611）
 | 0802 | Front Loader | 铲车（1616）
+| 0804 | Police Van | 依维柯面包车（警）
 | 0804 | Police Van | 奔驰面包车（警）
 | 0805 | Ambulance | 奔驰面包车（急救）
 | 0807 | Helicopter | 直升机（警/1610）
@@ -176,15 +177,15 @@
 | 1307 | VW Passat Variant | 大众越野车（蓝）
 | 1309 | 铲雪车*
 | 1311 | Forklift Truck | 林德叉车
-| 1312 | 割草机*
-| 1314 | Fire Fighter Motor Cycle | 消防摩托车*
+| 1312 | Lawn Tractor | 割草机
+| 1314 | Fire Fighter Motor Cycle | 宝马摩托车（消防）
 | 1315 | Mini Copper | MINI轿车*
 | 1316 | Audi R8 Spyder | 奥迪R8敞篷跑车*
 | 1318 | 兰博基尼敞篷跑车*
 | 1319 | US School Bus | 美式校车
 | 1321 | Double-decker Bus | 双层巴士
 | 1322 | Road Maintenance Lorry | 奔驰路政车
-| 1325 | Police Motorbike | 宝马警用摩托车*
+| 1325 | Police Motorbike | 宝马摩托车（警）
 | 1326 | Hydraulic Crane | 吊车
 | 1330 | Police Mini | MINI轿车（警）
 | 1331 | Milk Collecting Truck | SCANIA奶罐车*
@@ -209,6 +210,7 @@
 | 1358 | Formula 1 Racing Car | 赛车（白/5）
 | 1360 | Taxi | 大众面包车T5（出租）
 | 1361 | Police | 甲壳虫轿车（警）
+| 1362 | Police Car | 奔驰轿车C320（警）?1375
 | 1363 | Taxi | 奔驰轿车E500（出租）
 | 1365 | Police Car | 奥迪越野车A4（警）
 | 1365 | Police Car | 福特越野车Galaxy（警）
@@ -255,6 +257,7 @@
 | 1511 | Recycling Lorry | 奔驰环卫车+环卫全挂车
 | 1515 | Tractor with xxx Tanker | MF拖拉机（0847）+水箱自挂车
 | 1516 | Tipper Truck and Trailer | 奔驰自卸车+自卸全挂车
+| 1519 | 大众轿车Golf+全挂拖车
 | 1518 | Skip Lorry with Trailer | 奔驰翻斗车+翻斗全挂车
 | 1528 | 保时捷911警车*
 | 1610 | Low Loader with Helicopter | SCANIA牵引车（银）+中型平板半挂车+直升机（警/0807）
