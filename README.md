@@ -169,6 +169,7 @@
 | 1075 | SCANIA自卸车*
 | 1082 | 消防面包车？
 | 1085 | Post Van | 奔驰面包车（快递）
+| 1090 | 大众轿车Golf
 | 1093 | Porsche 911 Carrera | 保时捷跑车911（警/绿）
 | 1099 | 水上飞机*
 | 1302 | Smart Police | SMART轿车（警）
@@ -257,7 +258,7 @@
 | 1511 | Recycling Lorry | 奔驰环卫车+环卫全挂车
 | 1515 | Tractor with xxx Tanker | MF拖拉机（0847）+水箱自挂车
 | 1516 | Tipper Truck and Trailer | 奔驰自卸车+自卸全挂车
-| 1519 | 大众轿车Golf+全挂拖车
+| 1519 | 大众轿车Golf(1090)+全挂拖车
 | 1518 | Skip Lorry with Trailer | 奔驰翻斗车+翻斗全挂车
 | 1528 | 保时捷911警车*
 | 1610 | Low Loader with Helicopter | SCANIA牵引车（银）+中型平板半挂车+直升机（警/0807）
