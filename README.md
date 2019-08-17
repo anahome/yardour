@@ -357,13 +357,23 @@
 
 | Case L          | Case M          
 | --------------- | --------------- 
-| smart fortwo    | truck chasis    
-| smart fortwo    | truck tractor   
-| smart fortwo    | truck loader    
-| smart fortwo    | truck excavator 
-| smart fortwo    | truck mixer     
-| smart fortwo    | truck tipper    
-| smart fortwo    | hotshot
-| smart fortwo    | ace
-| smart fortwo    | speedy
-| smart fortwo    | skipper
+| 1 car           | truck chasis    
+| 1 train         | truck tractor   
+| 1 ship          | truck loader    
+| 1 plane         | truck excavator 
+| 2 pickup truck  | truck mixer     
+| 2 steam train   | truck tipper    
+| 2 submarine     | cartoon hotshot
+| 2 helicopter    | cartoon ace
+| 3 vintage car   | cartoon speedy
+| 3 fire engine   | cartoon skipper
+| 3 airfreighter  | space shuttle
+| 4 trail truck   | space rover
+| 4 loader truck  | space ranger
+| 4 concept car
+| 5 space shuttle
+| 5 space rover
+| 5 space ranger
+| 6 tipper truck
+| 6 racing car
+| 6 armored car
