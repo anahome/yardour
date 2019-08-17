@@ -351,3 +351,19 @@
 | 6301 | Gift Set | 套装（1434/1305/1001）
 | 6302 | Gift Set | 套装（？/？/？）
 | 6303 | Gift Set | 套装（1013/1021/1319/0857）
+
+
+# Mix Match
+
+| Case L          | Case M          
+| --------------- | --------------- 
+| smart fortwo    | truck chasis    
+| smart fortwo    | truck tractor   
+| smart fortwo    | truck loader    
+| smart fortwo    | truck excavator 
+| smart fortwo    | truck mixer     
+| smart fortwo    | truck tipper    
+| smart fortwo    | hotshot
+| smart fortwo    | ace
+| smart fortwo    | speedy
+| smart fortwo    | skipper
