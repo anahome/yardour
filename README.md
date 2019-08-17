@@ -39,10 +39,10 @@
 | Poli            | Poli*           | Cap             | Bruny           | Dump            | Spooky
 | Amber           | Helly           | Musty           | Mark            | Mickey          | 
 | Roy             | Marine          | Posty           | Bucky           | Lifty           | 
-|                 | Beny            | Mini            | Max             | Poke            | Torino
-|                 | Rody            | SchoolB         | Tracky          | Bruner          |
-|                 | Cleany1         | Camp1           | Terry1          | Spooky*         |
-|                 | Cleany2         | Camp2           | Terry2          |                 |
+|                 | Beny            | Mini            | Tracky          | Poke            | Torino
+|                 | Rody            | SchoolB         | Terry1          | Bruner          |
+|                 | Cleany1         | Camp1           | Terry2          | Max             |
+|                 | Cleany2         | Camp2           | Terry3          | Spooky*         |
 
 
 # Paw Patrol
