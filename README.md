@@ -136,6 +136,7 @@
 | 0879 | Wiesmann GT MF4 | 威兹曼跑车（蓝）
 | 0880 | SIKU Canyon | 悍马皮卡车（黄）
 | 0882 | Command Car | 奔驰面包车（消防）
+| 0883 | 战斗机F18
 | 0890 | 气垫船*
 | 0894 | 路标*
 | 1001 | Porsche Carrera GT | 保时捷跑车GT（红）x2
