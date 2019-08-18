@@ -221,6 +221,7 @@
 | 1379 | 拖拉机带装载机？
 | 1380 | 林木拖拉机*
 | 1387 | 油罐车*
+| 1401 | Patrol car | 宝马越野车Touring（警）
 | 1403 | Off-Road Vehicle Police | 丰田越野车（警）
 | 1404 | US-Patrol Car | 道奇越野车（警）
 | 1416 | Motorway Patrol Car | 保时捷跑车卡曼（警）~
@@ -244,11 +245,13 @@
 | 1456 | Cup-Race Porsche 911 | 保时捷跑车911（杯赛）
 | 1457 | Porsche 911 Driving School | 保时捷跑车911（驾校）
 | 1460 | Fire Command Car | 奥迪越野车Q7（消防）
+| 1460 | Fire Command Car | 大众面包车T5（消防）
 | 1461 | Emergency Car | 大众越野车（救援）
 | 1462 | Children Emergency Doctor | 大众面包车T5（救援）
 | 1463 | Command Car THW | 大众越野车（消防）
 | 1463 | Command Car THW | 大众越野车（指挥）
 | 1467 | 消防皮卡*
+| 1468 | US firefighter car | 道奇轿车（消防）
 | 1469 | 救援皮卡*
 | 1470 | Mercedes 300SL | 奔驰跑车300SL
 | 1477 | 装载车*
@@ -289,6 +292,7 @@
 | 1679 | Argo Avenger with trailer | 水陆两栖车+两栖全挂车
 | 1683 | Volvo Roll-off Tipper with Crane | 沃尔沃吊装自卸车
 | 1685 | 自卸车+自卸车*
+| 1690 | Tank Truck with Trailer | 斯堪尼亚能源车+能源全挂车
 | 1720 | Aida Luna Cruiseliner | 阿依达邮轮明月号
 | 1724 | Mein Schiff 3 | 迈希夫邮轮3号
 | 1726 | Mein Schiff 1 | 迈希夫邮轮1号
@@ -327,6 +331,7 @@
 | 2109 | 奔驰消防车*
 | 2113 | 奔驰消防车*
 | 2114 | 云梯消防车*
+| 2306 | Mercedes-AMG G65 Fire Brigade | 奔驰越野车（消防）
 | 2308 | Mercedes-AMG G65 Federal Police | 奔驰越野车（警）
 | 2309 | US Police | 道奇皮卡车（警）
 | 2314 | Quad with Jet Ski | 四轮摩托车+摩托艇？
