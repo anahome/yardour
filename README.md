@@ -246,7 +246,7 @@
 | 1456 | Cup-Race Porsche 911 | 保时捷跑车911（杯赛）
 | 1457 | Porsche 911 Driving School | 保时捷跑车911（驾校）
 | 1460 | Fire Command Car | 奥迪越野车Q7（消防）
-| 1460 | Fire Command Car | 大众面包车T5（消防）
+| 1460 | Fire Command Car | 大众面包车（消防）
 | 1461 | Emergency Car | 大众越野车（救援）
 | 1462 | Children Emergency Doctor | 大众面包车T5（救援）
 | 1463 | Command Car THW | 大众越野车（消防）
