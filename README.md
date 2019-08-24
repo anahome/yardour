@@ -285,6 +285,7 @@
 | 1644 | Freight Wagon | 道奇皮卡车+沙滩全挂车+沙滩车
 | 1646 | Local Train | 通勤列车
 | 1647 | Helicopter | 直升机（急救/1850）
+| 1657 | Steam engine with passager carriage | 蒸汽火车+客车厢
 | 1658 | Jeep with Boat | 吉普越野车Wrangler（1342）+小艇全挂车（黄）+小艇（红)
 | 1659 | Log Transporter | 沃尔沃牵引车（蓝）+木材平板半挂车+木材+木材
 | 1661 | 消防车套装*
