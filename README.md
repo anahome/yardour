@@ -93,7 +93,8 @@
 | 0801 | Excavator | 挖机（1611）
 | 0802 | Front Loader | 铲车（1616）
 | 0804 | Police Van | 依维柯面包车（警）
-| 0804 | Police Van | 奔驰面包车（警）
+| 0804 | Police Van | 奔驰面包车（警/蓝）
+| 0804 | Police Van | 奔驰面包车（警/绿）
 | 0805 | Ambulance | 奔驰面包车（急救）
 | 0807 | Helicopter | 直升机（警/1610）
 | 0809 | Ambulance | 奔驰面包车（救护）
@@ -299,7 +300,7 @@
 | 1724 | Mein Schiff 3 | 迈希夫邮轮3号
 | 1726 | Mein Schiff 1 | 迈希夫邮轮1号
 | 1750 | Car Ferry | 汽车摆渡船
-| 1791 | Double Deck Train | 双层列车*
+| 1791 | Double Deck Train | 双层列车
 | 1795 | Truck with Tank Container | 奔驰牵引车+集装箱平板半挂车+油罐集装箱
 | 1796 | Truck with Trailer and Roof | 奔驰牵引车+自卸带篷半挂车
 | 1805 | Truck with New Holland Tractors | 美式牵引车（黄）+中型平板半挂车+NH拖拉机+NH拖拉机
@@ -309,6 +310,7 @@
 | 1819 | New Zealand Emergency Set - Series II | 奔驰面包车（救护/黄）+奥迪越野车A4（警）+宝马轿车545i（警）
 | 1832 | 曼恩牵引车+中型平板半挂车+铺路机
 | 1837 | Low Loader with John Deere Tractors | 美式牵引车（绿）+中型平板半挂车+JD拖拉机+JD拖拉机
+| 1841 | Fire Engine | 奔驰云梯消防车
 | 1844 | Massey Ferguson Tractor with Trailer | MF拖拉机8480+自卸全挂车
 | 1846 | Claas with Forage Wagon | Claas拖拉机+饲料全挂车
 | 1849 | Heavy Haulage Transporter with Yacht | 曼恩牵引车+重型平板半挂车+游艇
