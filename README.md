@@ -138,7 +138,7 @@
 | 0880 | SIKU Canyon | 悍马皮卡车（黄）
 | 0882 | Command Car | 奔驰面包车（消防）
 | 0883 | 战斗机F18
-| 0890 | 气垫船*
+| 0890 | Hovercraft Police | 气垫船
 | 0894 | 路标*
 | 1001 | Porsche Carrera GT | 保时捷跑车GT（红）x2
 | 1001 | Porsche Carrera GT | 保时捷跑车GT（银/2544）
@@ -261,12 +261,13 @@
 | 1486 | 翻斗车*
 | 1490 | 出租车*
 | 1502 | Taxi | 奔驰轿车E350d（出租）
+| 1504 | Police patrol car | 奔驰轿车E350d（警）
 | 1511 | Recycling Lorry | 奔驰环卫车+环卫全挂车
 | 1515 | Tractor with xxx Tanker | MF拖拉机（0847）+水箱自挂车
 | 1516 | Tipper Truck and Trailer | 奔驰自卸车+自卸全挂车
 | 1519 | 大众轿车Golf(1090)+全挂拖车
 | 1518 | Skip Lorry with Trailer | 奔驰翻斗车+翻斗全挂车
-| 1528 | 保时捷911警车*
+| 1528 | Highway patrol | 保时捷跑车911（警）
 | 1610 | Low Loader with Helicopter | SCANIA牵引车（银）+中型平板半挂车+直升机（警/0807）
 | 1611 | Low Loader with Excavator | SCANIA牵引车（黄）+中型平板半挂车+挖掘机（0801）
 | 1613 | Low Loader with Boot | SCANIA牵引车（红）+中型平板半挂车+快艇
