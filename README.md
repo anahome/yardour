@@ -290,6 +290,7 @@
 | 1627 | Articulated Truck with Trailer | 沃尔沃牵引车（绿）+集装箱半挂车（绿）
 | 1629 | Car with Trailer Caravan | 大众跑车Bettle+小型房车全挂车
 | 1636 | Unimog Fire Engine with Boot | 奔驰消防车Unimog（1068）+小艇全挂车（红）+小艇（橙）
+| 1636 | Unimog Fire Engine with Boot | 奔驰消防车Unimog（1068）+小艇全挂车（黄）+小艇（警）
 | 1644 | Freight Wagon | 道奇皮卡车+沙滩全挂车+沙滩车
 | 1646 | Local Train | 通勤列车
 | 1647 | Helicopter | 直升机（急救/1850）
