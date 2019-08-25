@@ -126,7 +126,7 @@
 | 0868 | Siku County | 福特皮卡车？骑警？
 | 0869 | Siku Pick Up 3 | 悍马皮卡车（军）
 | 0870 | Tank | 坦克*
-| 0872 | 武装直升机*
+| 0872 | Helicopter Gunship | 武装直升机
 | 0873 | Jet Fighter | 喷气战斗机
 | 0874 | Siku Magma | 熔岩跑车
 | 0875 | Siku Storm | 风暴跑车（黑）x2
@@ -235,6 +235,7 @@
 | 1422 | Road Patrol Car | 奥迪越野车A4（救援）
 | 1424 | 轻型卡车*
 | 1430 | Audi R8 | 奥迪跑车R8~
+| 1431 | 丰田越野车RAV4（救护）
 | 1432 | BMW X5 | 宝马越野车X5
 | 1433 | Porsche Cayman | 保时捷跑车Cayman
 | 1434 | Dodge Viper | 道奇跑车Viper（黄）
