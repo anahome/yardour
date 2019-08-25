@@ -96,6 +96,7 @@
 | 0804 | Police Van | 奔驰面包车（警/蓝）
 | 0804 | Police Van | 奔驰面包车（警/绿）
 | 0805 | Ambulance | 奔驰面包车（急救）
+| 0805 | Ambulance | 依维柯面包车（急救）
 | 0807 | Helicopter | 直升机（警/1610）
 | 0809 | Ambulance | 奔驰面包车（救护）
 | 0811 | Refuse Truck | 斯堪尼亚垃圾车
@@ -137,6 +138,7 @@
 | 0879 | Wiesmann GT MF4 | 威兹曼跑车（蓝）
 | 0880 | SIKU Canyon | 悍马皮卡车（黄）
 | 0882 | Command Car | 奔驰面包车（消防）
+| 0882 | Command Car | 依维柯面包车（消防）
 | 0883 | 战斗机F18
 | 0890 | Hovercraft Police | 气垫船
 | 0894 | 路标*
