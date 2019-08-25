@@ -284,6 +284,7 @@
 | 1623 | Mega Lifter | 重型吊车(黄)
 | 1623 | Mega Lifter | 重型吊车(蓝)
 | 1624 | Coach Bus | 曼恩长途巴士（火焰）
+| 1624 | Coach Bus | 曼恩长途巴士（儿童）
 | 1625 | 拖拉机+收纳斗车~
 | 1626 | Tanker with Trailer | 沃尔沃牵引车（蓝）+油罐半挂车
 | 1627 | Articulated Truck with Trailer | 沃尔沃牵引车（黑）+集装箱半挂车（黑）
