@@ -335,6 +335,7 @@
 | 1899 | Tower Slewing Crane | 利勃海尔吊塔
 | 1935 | Postcar | 奔驰面包车（邮政）
 | 1936 | Postcar | 奔驰客货车（快递）
+| 1940 | Benz Sprinter with elevated work platform | 奔驰面包车（工程）
 | 2108 | Rescue Van | 奔驰客货车（急救）
 | 2109 | 奔驰消防车*
 | 2113 | 奔驰消防车*
