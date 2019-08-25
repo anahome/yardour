@@ -97,6 +97,7 @@
 | 0804 | Police Van | 奔驰面包车（警/绿）
 | 0805 | Ambulance | 奔驰面包车（急救）
 | 0805 | Ambulance | 依维柯面包车（急救）
+| 0805 | Ambulance | 依维柯面包车（救护）
 | 0807 | Helicopter | 直升机（警/1610）
 | 0809 | Ambulance | 奔驰面包车（救护）
 | 0811 | Refuse Truck | 斯堪尼亚垃圾车
@@ -124,6 +125,7 @@
 | 0866 | Siku Sniper | 狙击手跑车
 | 0867 | Siku Ranger | 福特皮卡车
 | 0868 | Siku County | 福特皮卡车？骑警？
+| 0868 | Siku Mounty | 道奇皮卡车ViperSRT10（
 | 0869 | Siku Pick Up 3 | 悍马皮卡车（军）
 | 0870 | Tank | 坦克*
 | 0872 | Helicopter Gunship | 武装直升机
