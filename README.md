@@ -96,10 +96,11 @@
 | 0804 | Police Van | 奔驰面包车（警/蓝）
 | 0804 | Police Van | 奔驰面包车（警/绿）
 | 0805 | Ambulance | 奔驰面包车（急救）
-| 0805 | Ambulance | 依维柯面包车（急救）
+| 0805 | Ambulance | 依维柯面包车（急救/橙）
 | 0805 | Ambulance | 依维柯面包车（救护）
 | 0807 | Helicopter | 直升机（警/1610）
 | 0809 | Ambulance | 奔驰面包车（救护）
+| 0809 | Ambulance | 依维柯面包车（急救/黄）
 | 0811 | Refuse Truck | 斯堪尼亚垃圾车
 | 0813 | Cement Mixer | 斯堪尼亚搅拌车*
 | 0817 | Space Shuttle | 航天飞机
@@ -174,6 +175,7 @@
 | 1068 | Fire Engine | 奔驰消防车Unimog（1636）
 | 1075 | SCANIA自卸车*
 | 1082 | 消防面包车？
+| 1083 | Emergency Service | 依维柯面包车（急救/黄）
 | 1085 | Post Van | 奔驰面包车（快递）
 | 1090 | 大众轿车Golf
 | 1093 | Porsche 911 Carrera | 保时捷跑车911（警/绿）
@@ -232,6 +234,7 @@
 | 1403 | Off-Road Vehicle Police | 丰田越野车（警）
 | 1404 | US-Patrol Car | 道奇越野车（警）
 | 1416 | Motorway Patrol Car | 保时捷跑车卡曼（警）~
+| 1417 | VW The Beetle | 大众甲壳虫轿车
 | 1418 | Claas Forage Harvester | Claas饲料收割机
 | 1422 | Road Patrol Car | 奥迪越野车A4（警）
 | 1422 | Road Patrol Car | 奥迪越野车A4（救援）
@@ -295,6 +298,7 @@
 | 1644 | Freight Wagon | 道奇皮卡车+沙滩全挂车+沙滩车
 | 1646 | Local Train | 通勤列车
 | 1647 | Helicopter | 直升机（急救/1850）
+| 1654 | Ambulance set | 依维柯面包车（急救/黄）+摩托车（急救）
 | 1657 | Steam engine with passager carriage | 蒸汽火车+客车厢
 | 1658 | Jeep with Boat | 吉普越野车Wrangler（1342）+小艇全挂车（黄）+小艇（红)
 | 1659 | Log Transporter | 沃尔沃牵引车（蓝）+木材平板半挂车+木材+木材
