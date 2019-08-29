@@ -168,6 +168,7 @@
 | 1039 | 芬特拖拉机带推土臂？
 | 1042 | Smart Fortwo Cabrio Convertible | SMART轿车（敞篷/橙）x2
 | 1043 | 道依茨法尔拖拉机带推土臂？
+| 1044 | 奔驰吉普车280GE
 | 1045 | BMW 545i | 宝马轿车545i
 | 1047 | 摩托车（急救）
 | 1062 | Porsche Cayenne Turbo | 保时捷越野车Cayenne（消防）x2
