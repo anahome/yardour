@@ -99,6 +99,7 @@
 | 0805 | Ambulance | 依维柯面包车（急救/橙）
 | 0805 | Ambulance | 依维柯面包车（救护）
 | 0807 | Helicopter | 直升机（警/1610）
+| 0807 | Helicopter | 直升机（警/绿）
 | 0809 | Ambulance | 奔驰面包车（救护）
 | 0809 | Ambulance | 依维柯面包车（急救/黄）
 | 0811 | Refuse Truck | 斯堪尼亚垃圾车
@@ -128,7 +129,7 @@
 | 0868 | Siku County | 福特皮卡车？骑警？
 | 0868 | Siku Mounty | 道奇皮卡车ViperSRT10（
 | 0869 | Siku Pick Up 3 | 悍马皮卡车（军）
-| 0870 | Tank | 坦克*
+| 0870 | Tank | 坦克
 | 0872 | Helicopter Gunship | 武装直升机
 | 0873 | Jet Fighter | 喷气战斗机
 | 0874 | Siku Magma | 熔岩跑车
@@ -168,7 +169,7 @@
 | 1042 | Smart Fortwo Cabrio Convertible | SMART轿车（敞篷/橙）x2
 | 1043 | 道依茨法尔拖拉机带推土臂？
 | 1045 | BMW 545i | 宝马轿车545i
-| 1047 | 摩托车*
+| 1047 | 摩托车（急救）
 | 1062 | Porsche Cayenne Turbo | 保时捷越野车Cayenne（消防）x2
 | 1062 | Porsche Cayenne Turbo | 保时捷越野车Cayenne（灰/2542/2544）x2
 | 1065 | Smart Roadster | SMART跑车
@@ -187,6 +188,7 @@
 | 1309 | 铲雪车*
 | 1311 | Forklift Truck | 林德叉车
 | 1312 | Lawn Tractor | 割草机
+| 1313 | 奥迪轿车A6（消防）
 | 1314 | Fire Fighter Motor Cycle | 宝马摩托车（消防）
 | 1315 | Mini Copper | MINI轿车*
 | 1316 | Audi R8 Spyder | 奥迪R8敞篷跑车*
@@ -298,7 +300,7 @@
 | 1644 | Freight Wagon | 道奇皮卡车+沙滩全挂车+沙滩车
 | 1646 | Local Train | 通勤列车
 | 1647 | Helicopter | 直升机（急救/1850）
-| 1654 | Ambulance set | 依维柯面包车（急救/黄）+摩托车（急救）
+| 1654 | Ambulance set | 依维柯面包车（急救/黄/0805）+摩托车（急救/1047）
 | 1657 | Steam engine with passager carriage | 蒸汽火车+客车厢
 | 1658 | Jeep with Boat | 吉普越野车Wrangler（1342）+小艇全挂车（黄）+小艇（红)
 | 1659 | Log Transporter | 沃尔沃牵引车（蓝）+木材平板半挂车+木材+木材
@@ -352,6 +354,7 @@
 | 2306 | Mercedes-AMG G65 Fire Brigade | 奔驰越野车（消防）
 | 2308 | Mercedes-AMG G65 Federal Police | 奔驰越野车（警）
 | 2309 | US Police | 道奇皮卡车（警）
+| 2313 | Police team van | 奔驰面包车（警）
 | 2314 | Quad with Jet Ski | 四轮摩托车+摩托艇？
 | 2350 | Mercedes-Benz G65 AMG | 奔驰越野车（黄）*
 | 2527 | 救援直升机*
