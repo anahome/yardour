@@ -286,6 +286,8 @@
 | 1615 | Tram | 有轨电车
 | 1616 | Low Loader with Front Loader | SCANIA牵引车（黄）+中型平板半挂车+铲车（0802）
 | 1617 | Hinged Bus | 双节巴士
+| 1617 | Hinged Bus | 双节巴士（巴黎蓝）
+| 1617 | Hinged Bus | 双节巴士（澳洲红）
 | 1620 | Low Loader with Comb. Harvester | 奔驰牵引车（红）+中型平板半挂车+收割机
 | 1623 | Mega Lifter | 重型吊车(黄)
 | 1623 | Mega Lifter | 重型吊车(蓝)
@@ -340,6 +342,7 @@
 | 1874 | Liebherr Hydraulic Excavator | 利勃海尔挖掘机
 | 1877 | Volvo Dumper | 沃尔沃自卸车
 | 1884 | Double Decker City Bus | 曼恩双层巴士
+| 1889 | 机场消防车（黄）
 | 1890 | Refuse Truck | SCANIA垃圾车
 | 1895 | Tramway | 庞巴迪有轨电车*
 | 1896 | Mixer Truck | SCANIA搅拌车
