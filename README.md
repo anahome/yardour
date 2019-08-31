@@ -103,7 +103,7 @@
 | 0809 | Ambulance | 奔驰面包车（救护）
 | 0809 | Ambulance | 依维柯面包车（急救/黄）
 | 0811 | Refuse Truck | 斯堪尼亚垃圾车
-| 0813 | Cement Mixer | 斯堪尼亚搅拌车*
+| 0813 | Cement Mixer | 斯堪尼亚搅拌车
 | 0817 | Space Shuttle | 航天飞机
 | 0824 | VW Delivery Van | 大众面包车T4（警）
 | 0828 | Recycling Transporter | 斯堪尼亚环卫车*
@@ -232,7 +232,7 @@
 | 1377 | BMW R 1100 RS Motorbike | 宝马摩托车
 | 1379 | 拖拉机带装载机？
 | 1380 | 林木拖拉机*
-| 1387 | 油罐车*
+| 1387 | Tank truck | 斯堪尼亚油罐车
 | 1401 | Patrol car | 宝马越野车Touring（警）
 | 1403 | Off-Road Vehicle Police | 丰田越野车（警）
 | 1404 | US-Patrol Car | 道奇越野车（警）
