@@ -93,6 +93,7 @@
 | 0801 | Excavator | 挖机（1611）
 | 0802 | Front Loader | 铲车（1616）
 | 0804 | Police Van | 依维柯面包车（警）
+| 0804 | Police Van | 依维柯面包车（警/白）
 | 0804 | Police Van | 奔驰面包车（警/蓝）
 | 0804 | Police Van | 奔驰面包车（警/绿）
 | 0805 | Ambulance | 奔驰面包车（急救）
@@ -131,7 +132,7 @@
 | 0869 | Siku Pick Up 3 | 悍马皮卡车（军）
 | 0870 | Tank | 坦克
 | 0872 | Helicopter Gunship | 武装直升机
-| 0873 | Jet Fighter | 喷气战斗机
+| 0873 | Jet Fighter | 喷气战斗机台风
 | 0874 | Siku Magma | 熔岩跑车
 | 0875 | Siku Storm | 风暴跑车（黑）x2
 | 0875 | Siku Storm | 风暴跑车（红）
@@ -365,6 +366,7 @@
 | 2542 | Car with Caravan | 保时捷越野车Cayenne（灰/1062）+大型房车全挂车
 | 2544 | Car with Trailer | 保时捷越野车Cayenne（灰/1062）+平板拖车全挂车+保时捷跑车GT（银/1001）
 | 2549 | 保时捷消防车带气垫船~
+| 2936 | 扫地车
 | 3505 | RAM 1500 with Compresser Trailer | 道奇皮卡车（救援）+（压缩机全挂车*
 | 3521 | ？
 | 3530 | Compactor | HAMM压路机
