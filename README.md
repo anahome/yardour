@@ -163,7 +163,8 @@
 | 1015 | Fire Engine | 奔驰云梯消防车
 | 1021 | City Bus | 单节巴士（红）
 | 1021 | City Bus | 单节巴士（蓝）
-| 1022 | Camping Car | 依维柯房车
+| 1022 | Camping Car | 依维柯房车（白红）
+| 1022 | Camping Car | 依维柯房车（白绿）
 | 1034 | Water Cannon | 奔驰水枪消防车
 | 1037 | 雪地清理机*
 | 1039 | 芬特拖拉机带推土臂？
@@ -201,7 +202,7 @@
 | 1325 | Police Motorbike | 宝马摩托车（警）
 | 1326 | Hydraulic Crane | 吊车
 | 1330 | Police Mini | MINI轿车（警）
-| 1331 | Milk Collecting Truck | SCANIA奶罐车*
+| 1331 | Milk Collecting Truck | SCANIA奶罐车
 | 1334 | US Police | 悍马皮卡车（警/蓝）
 | 1334 | US Police | 悍马皮卡车（警/白）
 | 1334 | US Police | 悍马皮卡车（警/黑/县）
@@ -265,7 +266,7 @@
 | 1462 | Children Emergency Doctor | 大众面包车T5（救援）
 | 1463 | Command Car THW | 大众越野车（消防）
 | 1463 | Command Car THW | 大众越野车（指挥）
-| 1467 | 消防皮卡*
+| 1467 | Mountain Rescue | 大众皮卡车Amarok（消防）
 | 1468 | US firefighter car | 道奇轿车（消防）
 | 1469 | 救援皮卡*
 | 1470 | Mercedes 300SL | 奔驰跑车300SL
