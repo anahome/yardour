@@ -96,6 +96,8 @@
 | 0804 | Police Van | 依维柯面包车（警/白）
 | 0804 | Police Van | 奔驰面包车（警/蓝）
 | 0804 | Police Van | 奔驰面包车（警/绿）
+| 0804 | Police Van | 奔驰面包车（警/白绿）
+| 0804 | Police Van | 奔驰面包车（警/全绿）
 | 0805 | Ambulance | 奔驰面包车（急救）
 | 0805 | Ambulance | 依维柯面包车（急救/橙）
 | 0805 | Ambulance | 依维柯面包车（救护）
@@ -223,7 +225,8 @@
 | 1357 | Racing Car | 赛车（银）
 | 1358 | Formula 1 Racing Car | 赛车（白/5）
 | 1360 | Taxi | 大众面包车T5（出租）
-| 1361 | Police | 甲壳虫轿车（警）
+| 1361 | Police | 甲壳虫轿车（警/蓝）
+| 1361 | Police | 甲壳虫轿车（警/绿）
 | 1362 | Police Car | 奔驰轿车C320（警）?1375
 | 1362 | Police Car | 奔驰轿车E500（警）?1332
 | 1363 | Taxi | 奔驰轿车E500（出租）
