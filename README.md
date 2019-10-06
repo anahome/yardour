@@ -414,3 +414,16 @@
 | 6 tipper truck
 | 6 racing car
 | 6 armored car
+
+
+# Micro Machines
+
+| Case L                  
+| --------------- 
+| 1960 #4 Ken-Paul Special
+| 1961 #1 Bowes Seal Fast Special
+| 1962 #3 Leader Card 500 Roadster
+| 1963 #98 Agajanian-Willard Battery Special
+| 1964 #1 Sheraton-Thompson Special
+| 1965 #82 Lotus Ford
+
