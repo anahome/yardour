@@ -418,12 +418,25 @@
 
 # Micro Machines
 
-| Case L                  
-| --------------- 
-| 1960 #4 Ken-Paul Special
-| 1961 #1 Bowes Seal Fast Special
-| 1962 #3 Leader Card 500 Roadster
-| 1963 #98 Agajanian-Willard Battery Special
-| 1964 #1 Sheraton-Thompson Special
-| 1965 #82 Lotus Ford
-
+| Year | No. | Car                                           | Driver                         | Average Speed   
+| ---- | --- | --------------------------------------------- | ------------------------------ | --------------- 
+| 1960 | #4  | Ken-Paul Special                              | Jim Rathmann                   | 138.767 mph
+| 1961 | #1  | Bowes Seal Fast Special                       | A.J. Foyt                      | 139.130 mph
+| 1962 | #3  | Leader Card 500 Roadster                      | Rodger Ward                    | 140.293 mph
+| 1963 | #98 | Agajanian-Willard Battery Special             | Parnelli Jones                 | 143.137 mph
+| 1964 | #1  | Sheraton-Thompson Special                     | A.J. Foyt                      | 147.350 mph
+| 1965 | #82 | Lotus Ford                                    | Jim Clark                      | 150.686 mph
+| 1966 | #24 | American Red Ball Special                     | Graham Hill                    | 144.317 mph
+| 1967 | #14 | Sheraton-Thompson Special                     | A.J. Foyt                      | 151.207 mph
+| 1968 | #3  | Rislone Special                               | Bobby Unser                    | 152.882 mph
+| 1969 | #2  | STP Oil Treatment Special                     | Mario Andretti                 | 156.867 mph
+| 1980 | #4  | Pennzoil Chaparral                            | Johnny Rutherford              | 142.862 mph
+| 1981 | #3  | Norton Spirit                                 | Bobby Unser                    | 139.084 mph
+| 1982 | #20 | STP Oil Treatment                             | Gordon Johncock                | 162.029 mph
+| 1983 | #5  | Texaco Star                                   | Tom Sneva                      | 162.117 mph
+| 1984 | #6  | Pennzoil Z-7                                  | Rick Mears                     | 163.612 mph
+| 1985 | #5  | Penske Special                                | Danny Sullivan                 | 152.982 mph
+| 1986 | #3  | Truesports/March                              | Bobby Rahal                    | 170.722 mph
+| 1987 | #25 | Cummins Holset Turbo                          | Al Unser, Sr.                  | 162.175 mph
+| 1988 | #5  | Penske-Chevrolet                              | Rick Mears                     | 144.809 mph
+| 1989 | #20 | Penske-Chevrolet                              | Emerson Fittipaldi             | 167.581 mph
